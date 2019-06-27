@@ -1,6 +1,6 @@
 # MarchMadness
 
-This project was handled by the team of [Leonard Armstrong](https://github.com/larmstrong), Tanbir Biryajh, Pierre Casco, Kyle Wojtasz.
+This project was handled by the team of [Leonard Armstrong](https://github.com/larmstrong), [Tanbir Biryajh](https://github.com/tbiryajh), [Pierre Casco](https://github.com/PierreCasco), Kyle Wojtasz.
 
 ## Purpose
 
