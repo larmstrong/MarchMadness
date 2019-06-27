@@ -1,0 +1,2113 @@
+season,seed,region,market,name,alias,team_id,school_ncaa,code_nccaa
+1985,1,W,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1985,1,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1985,1,Y,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1985,1,X,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1985,2,W,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1985,2,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1985,2,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1985,2,X,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+1985,3,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1985,3,W,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1985,3,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1985,3,X,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+1985,4,W,Loyola (IL),Ramblers,L-IL,61a3908a-7492-4b6f-809e-12c61976bb0a,Loyola Chicago,371
+1985,4,Z,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1985,4,Y,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+1985,4,X,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1985,5,Y,Louisiana Tech,Bulldogs,LT,8ff733a9-9f93-46de-ba7e-cf6f7e429670,Louisiana Tech,366
+1985,5,Z,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1985,5,W,SMU,Mustangs,SMU,3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,663
+1985,5,X,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+1985,6,Z,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1985,6,X,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1985,6,Y,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+1985,6,W,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+1985,7,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1985,7,Z,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+1985,7,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1985,7,Y,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+1985,8,X,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1985,8,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1985,8,Y,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+1985,8,Z,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1985,9,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1985,9,Z,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+1985,9,Y,Illinois State,Redbirds,ILST,509aacc4-c121-46a2-800a-d5431ef181d2,Illinois St.,299
+1985,9,W,Virginia Tech,Hokies,VT,324ccccc-575b-4b82-acb0-fbb8e68da13b,Virginia Tech,742
+1985,10,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1985,10,W,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1985,10,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1985,10,Z,Oregon State,Beavers,ORST,532d3874-b4b3-4c5c-acc6-749a6db26c8f,Oregon St.,528
+1985,11,Z,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+1985,11,Y,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+1985,11,X,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1985,11,W,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+1985,12,Z,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+1985,12,W,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+1985,12,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+1985,12,X,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1985,13,W,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+1985,13,Y,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1985,13,Z,Navy,Midshipmen,NAVY,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,726
+1985,13,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+1985,14,W,Northeastern,Huskies,NE,93df9b18-e9fc-42a7-bb45-a736c203b4dc,Northeastern,500
+1985,14,X,Nevada,Wolf Pack,NEV,62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,466
+1985,14,Z,Ohio,Bobcats,OHIO,327f09e2-e75f-4014-8ef7-caf9202cd583,Ohio,519
+1985,14,Y,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+1985,15,W,Mercer,Bears,MER,a14b0057-8eb5-43d2-a33b-666196da933e,Mercer,406
+1985,15,X,Marshall,Thundering Herd,MRSH,58d8baa3-7624-4b21-a47f-a23df2bf8859,Marshall,388
+1985,15,Z,Middle Tennessee,Blue Raiders,MTU,3d2f0819-8f3b-4ff3-afd6-6227c469a751,Middle Tenn.,419
+1985,15,Y,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+1985,16,Z,Fairleigh Dickinson,Knights,FDU,b71d5a1b-2671-4e5a-b94b-06bfb22a27dd,Fairleigh Dickinson,222
+1985,16,W,Lehigh,Mountain Hawks,LEH,508f503f-dc57-4f4c-a01e-4f195e5c05c8,Lehigh,352
+1985,16,Y,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+1985,16,X,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+1986,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1986,1,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1986,1,Z,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1986,1,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1986,2,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1986,2,Z,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1986,2,X,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1986,2,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1986,3,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1986,3,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1986,3,X,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+1986,3,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1986,4,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1986,4,Y,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1986,4,W,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1986,4,Z,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1986,5,Y,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1986,5,Z,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1986,5,X,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1986,5,W,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1986,6,W,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+1986,6,X,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+1986,6,Y,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1986,6,Z,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+1986,7,Z,Bradley,Braves,BRAD,b47d10b8-a2a5-47df-a2f9-7bd0b9d51beb,Bradley,72
+1986,7,X,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1986,7,W,Navy,Midshipmen,NAVY,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,726
+1986,7,Y,Virginia Tech,Hokies,VT,324ccccc-575b-4b82-acb0-fbb8e68da13b,Virginia Tech,742
+1986,8,Z,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+1986,8,X,Jacksonville,Dolphins,JAC,fb28bd56-9e56-40c1-992d-71c1e27fe4fd,Jacksonville,316
+1986,8,W,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+1986,8,Y,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+1986,9,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1986,9,Y,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+1986,9,X,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1986,9,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+1986,10,X,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+1986,10,W,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1986,10,Z,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1986,10,Y,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1986,11,X,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1986,11,Y,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1986,11,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1986,11,W,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+1986,12,W,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1986,12,Z,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+1986,12,X,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+1986,12,Y,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1986,13,Y,Fairfield,Stags,FAIR,a381465b-4530-4a00-a50c-5253cd7695a0,Fairfield,220
+1986,13,W,Northeastern,Huskies,NE,93df9b18-e9fc-42a7-bb45-a736c203b4dc,Northeastern,500
+1986,13,X,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+1986,13,Z,Louisiana-Monroe,Warhawks,ULM,18585f21-1d63-4400-974c-433fd5073c34,La.-Monroe,498
+1986,14,Y,Ball State,Cardinals,BALL,315c4deb-3c9d-413d-a369-7168f2545d21,Ball St.,47
+1986,14,W,Cleveland State,Vikings,CLEV,e30c0417-b220-424e-886e-dd1249e2ca5a,Cleveland St.,148
+1986,14,X,Arkansas-Little Rock,Trojans,UALR,0dadedb0-2bd3-45e7-91a3-93af6c4e87f2,Little Rock,32
+1986,14,Z,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1986,15,X,Akron,Zips,AKR,56fe0ab2-e4f0-47b9-8726-9ce23ebcde20,Akron,5
+1986,15,W,Brown,Bears,BRWN,558abf02-97f4-4323-aa99-63c076d35932,Brown,80
+1986,15,Z,Drexel,Dragons,DREX,f2d01b77-0f5d-4574-9e49-2a3eaf822e44,Drexel,191
+1986,15,Y,Marist,Red Foxes,MRST,15d31915-fbd6-4ae3-8e4b-f3b563c56a18,Marist,386
+1986,16,Y,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+1986,16,Z,Montana State,Bobcats,MTST,bec40585-b587-4548-93f5-b7c00b046aea,Montana St.,440
+1986,16,W,Mississippi Valley State,Delta Devils,MVSU,5873529e-e5e3-4a06-8a03-fa4cbe509880,Mississippi Val.,432
+1986,16,X,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+1987,1,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1987,1,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1987,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1987,1,Z,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1987,2,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1987,2,Z,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1987,2,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1987,2,Y,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1987,3,Y,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1987,3,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1987,3,Z,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+1987,3,W,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1987,4,X,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+1987,4,Y,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1987,4,W,TCU,Horned Frogs,TCU,f7fcbb6e-4a55-41ea-ba21-f763ed914467,TCU,698
+1987,4,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1987,5,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1987,5,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1987,5,W,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+1987,5,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1987,6,W,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+1987,6,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1987,6,X,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+1987,6,Y,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1987,7,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1987,7,X,New Orleans,Privateers,UNO,e7ff6d5c-07e9-42af-955d-0a0b8c1e2288,New Orleans,474
+1987,7,Z,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1987,7,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+1987,8,Y,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+1987,8,W,Navy,Midshipmen,NAVY,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,726
+1987,8,Z,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+1987,8,X,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1987,9,Z,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+1987,9,W,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1987,9,X,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+1987,9,Y,San Diego,Toreros,USD,620d5944-7156-47d3-aad5-5b3824557d03,San Diego,627
+1987,10,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1987,10,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1987,10,Y,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1987,10,W,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+1987,11,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+1987,11,Z,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1987,11,X,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+1987,11,Y,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+1987,12,X,Houston,Cougars,HOU,1f99a164-d593-4d81-85d5-0d7889d6f486,Houston,288
+1987,12,W,Middle Tennessee,Blue Raiders,MTU,3d2f0819-8f3b-4ff3-afd6-6227c469a751,Middle Tenn.,419
+1987,12,Y,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+1987,12,Z,Wyoming,Cowboys,WYO,a7127c0a-a466-47ae-91ad-9a71ee2c9427,Wyoming,811
+1987,13,Z,Central Michigan,Chippewas,CMU,472c22e0-843d-472c-a871-f1593fb0725d,Central Mich.,129
+1987,13,X,Missouri State,Bears,MOSU,b83de2df-328f-4303-9895-cdff048fb1ed,Missouri St.,669
+1987,13,W,Marshall,Thundering Herd,MRSH,58d8baa3-7624-4b21-a47f-a23df2bf8859,Marshall,388
+1987,13,Y,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1987,14,Y,Louisiana Tech,Bulldogs,LT,8ff733a9-9f93-46de-ba7e-cf6f7e429670,Louisiana Tech,366
+1987,14,Z,Marist,Red Foxes,MRST,15d31915-fbd6-4ae3-8e4b-f3b563c56a18,Marist,386
+1987,14,W,Northeastern,Huskies,NE,93df9b18-e9fc-42a7-bb45-a736c203b4dc,Northeastern,500
+1987,14,X,Austin Peay,Governors,PEAY,a0fdb660-a822-4337-b01d-31c4d2c99c8a,Austin Peay,43
+1987,15,W,Georgia Southern,Eagles,GASO,6b955b96-b736-475e-bffd-e4acf2054169,Ga. Southern,253
+1987,15,X,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+1987,15,Z,Santa Clara,Broncos,SCU,28023973-1d9d-4d01-b939-dc8f9b44fb1c,Santa Clara,631
+1987,15,Y,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+1987,16,X,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+1987,16,Y,Fairfield,Stags,FAIR,a381465b-4530-4a00-a50c-5253cd7695a0,Fairfield,220
+1987,16,Z,Idaho State,Bengals,IDST,6a67ba19-56a8-4dd8-a5ae-9e9f2523c274,Idaho St.,294
+1987,16,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+1988,1,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1988,1,Y,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1988,1,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1988,1,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1988,2,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1988,2,X,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+1988,2,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1988,2,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1988,3,Y,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1988,3,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1988,3,X,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+1988,3,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1988,4,Y,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1988,4,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1988,4,X,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+1988,4,Z,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1988,5,X,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1988,5,W,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1988,5,Z,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1988,5,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1988,6,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+1988,6,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1988,6,W,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1988,6,Y,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1988,7,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1988,7,W,SMU,Mustangs,SMU,3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,663
+1988,7,X,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+1988,7,Z,Wyoming,Cowboys,WYO,a7127c0a-a466-47ae-91ad-9a71ee2c9427,Wyoming,811
+1988,8,Y,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+1988,8,X,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+1988,8,W,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1988,8,Z,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+1988,9,Y,Bradley,Braves,BRAD,b47d10b8-a2a5-47df-a2f9-7bd0b9d51beb,Bradley,72
+1988,9,W,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1988,9,X,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1988,9,Z,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1988,10,Z,Loyola Marymount,Lions,LMU,441a11b4-b506-45b3-8030-fe72a4381c40,Loyola Marymount,370
+1988,10,W,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+1988,10,Y,UC Santa Barbara,Gauchos,UCSB,3b6293f3-03db-46d2-8793-248963c2d83b,UC Santa Barbara,104
+1988,10,X,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+1988,11,Y,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1988,11,Z,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1988,11,W,Rhode Island,Rams,URI,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,572
+1988,11,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1988,12,Z,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+1988,12,W,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1988,12,Y,Oregon State,Beavers,ORST,532d3874-b4b3-4c5c-acc6-749a6db26c8f,Oregon St.,528
+1988,12,X,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+1988,13,Y,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+1988,13,X,La Salle,Explorers,LAS,ad9a3e21-4585-4e35-8946-290fe4a16f18,La Salle,340
+1988,13,Z,Missouri State,Bears,MOSU,b83de2df-328f-4303-9895-cdff048fb1ed,Missouri St.,669
+1988,13,W,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+1988,14,Z,Boise State,Broncos,BSU,c1c54dbf-805c-47fc-a707-c803e94db2a4,Boise St.,66
+1988,14,X,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1988,14,W,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+1988,14,Y,UTSA,Roadrunners,UTSA,953151f2-1e42-4cb0-a99e-202493a64dcf,UTSA,706
+1988,15,W,Boston University,Terriers,BU,de9a0e19-b83c-4b98-a6da-81c110cb364b,Boston U.,68
+1988,15,X,Eastern Michigan,Eagles,EMU,2ed86226-3fff-4083-90fa-6b02307e6f73,Eastern Mich.,204
+1988,15,Y,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+1988,15,Z,North Texas,Mean Green,UNT,10f450ce-143b-4e46-8bfe-52c644b68b07,North Texas,497
+1988,16,Y,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+1988,16,Z,Cornell,Big Red,COR,88ff8c00-958e-4ccf-a21d-77fab9e93692,Cornell,167
+1988,16,X,Fairleigh Dickinson,Knights,FDU,b71d5a1b-2671-4e5a-b94b-06bfb22a27dd,Fairleigh Dickinson,222
+1988,16,W,Lehigh,Mountain Hawks,LEH,508f503f-dc57-4f4c-a01e-4f195e5c05c8,Lehigh,352
+1989,1,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1989,1,W,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1989,1,Y,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1989,1,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1989,2,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1989,2,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1989,2,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1989,2,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1989,3,X,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+1989,3,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1989,3,Y,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1989,3,W,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1989,4,Z,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+1989,4,W,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1989,4,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1989,4,X,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1989,5,Y,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1989,5,X,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1989,5,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+1989,5,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1989,6,Z,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1989,6,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1989,6,W,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+1989,6,X,Oregon State,Beavers,ORST,532d3874-b4b3-4c5c-acc6-749a6db26c8f,Oregon St.,528
+1989,7,Y,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+1989,7,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1989,7,X,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1989,7,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+1989,8,Z,La Salle,Explorers,LAS,ad9a3e21-4585-4e35-8946-290fe4a16f18,La Salle,340
+1989,8,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+1989,8,X,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+1989,8,W,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+1989,9,Y,Ball State,Cardinals,BALL,315c4deb-3c9d-413d-a369-7168f2545d21,Ball St.,47
+1989,9,X,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+1989,9,Z,Louisiana Tech,Bulldogs,LT,8ff733a9-9f93-46de-ba7e-cf6f7e429670,Louisiana Tech,366
+1989,9,W,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+1989,10,Y,Colorado State,Rams,CSU,1a470730-f328-4fb1-8bbf-36a069e4d6b2,Colorado St.,156
+1989,10,Z,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1989,10,X,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1989,10,W,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+1989,11,X,Evansville,Aces,EVAN,d8217105-e9c2-4267-9538-3aaeea1ae167,Evansville,219
+1989,11,W,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+1989,11,Y,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1989,11,Z,South Alabama,Jaguars,USA,10c614fa-9646-46cf-a1fb-5af96772bbb8,South Ala.,646
+1989,12,X,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1989,12,Y,Loyola Marymount,Lions,LMU,441a11b4-b506-45b3-8030-fe72a4381c40,Loyola Marymount,370
+1989,12,Z,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+1989,12,W,South Carolina,Gamecocks,SCAR,1c7ec608-3b36-4cee-adac-9265e3792597,South Carolina,648
+1989,13,X,Idaho,Vandals,IDHO,ec6185b7-4e0c-4eb8-99ef-f3a4dccf6b91,Idaho,295
+1989,13,Z,Middle Tennessee,Blue Raiders,MTU,3d2f0819-8f3b-4ff3-afd6-6227c469a751,Middle Tenn.,419
+1989,13,W,Rutgers,Scarlet Knights,RUTG,b03bb029-4499-4a2c-9074-5071ed360b21,Rutgers,587
+1989,13,Y,Arkansas-Little Rock,Trojans,UALR,0dadedb0-2bd3-45e7-91a3-93af6c4e87f2,Little Rock,32
+1989,14,Y,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+1989,14,X,Missouri State,Bears,MOSU,b83de2df-328f-4303-9895-cdff048fb1ed,Missouri St.,669
+1989,14,W,Siena,Saints,SIE,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,639
+1989,14,Z,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1989,15,Y,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+1989,15,X,George Mason,Patriots,GMU,e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,248
+1989,15,W,South Carolina State,Bulldogs,SCST,a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,South Carolina St.,647
+1989,15,Z,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+1989,16,Z,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+1989,16,Y,McNeese State,Cowboys,MCNS,d2ef641c-70e4-48bb-b40d-ac654d179205,McNeese,402
+1989,16,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1989,16,X,Robert Morris,Colonials,RMU,6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,579
+1990,1,W,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1990,1,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1990,1,X,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1990,1,Z,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1990,2,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1990,2,W,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1990,2,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1990,2,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1990,3,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1990,3,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1990,3,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1990,3,Y,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1990,4,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1990,4,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1990,4,W,La Salle,Explorers,LAS,ad9a3e21-4585-4e35-8946-290fe4a16f18,La Salle,340
+1990,4,Z,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1990,5,W,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+1990,5,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1990,5,Y,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1990,5,Z,Oregon State,Beavers,ORST,532d3874-b4b3-4c5c-acc6-749a6db26c8f,Oregon St.,528
+1990,6,Y,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+1990,6,Z,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+1990,6,W,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1990,6,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1990,7,Z,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1990,7,W,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1990,7,X,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+1990,7,Y,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1990,8,Y,Houston,Cougars,HOU,1f99a164-d593-4d81-85d5-0d7889d6f486,Houston,288
+1990,8,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1990,8,Z,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+1990,8,X,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1990,9,W,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+1990,9,X,Missouri State,Bears,MOSU,b83de2df-328f-4303-9895-cdff048fb1ed,Missouri St.,669
+1990,9,Z,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+1990,9,Y,UC Santa Barbara,Gauchos,UCSB,3b6293f3-03db-46d2-8793-248963c2d83b,UC Santa Barbara,104
+1990,10,Z,Colorado State,Rams,CSU,1a470730-f328-4fb1-8bbf-36a069e4d6b2,Colorado St.,156
+1990,10,Y,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+1990,10,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1990,10,W,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+1990,11,X,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+1990,11,Z,Loyola Marymount,Lions,LMU,441a11b4-b506-45b3-8030-fe72a4381c40,Loyola Marymount,370
+1990,11,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1990,11,Y,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1990,12,Z,Ball State,Cardinals,BALL,315c4deb-3c9d-413d-a369-7168f2545d21,Ball St.,47
+1990,12,W,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1990,12,X,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+1990,12,Y,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1990,13,Y,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+1990,13,Z,Idaho,Vandals,IDHO,ec6185b7-4e0c-4eb8-99ef-f3a4dccf6b91,Idaho,295
+1990,13,X,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1990,13,W,Southern Miss,Golden Eagles,USM,6120ac5d-e0f2-4b28-9e6f-ee71596a7e88,Southern Miss.,664
+1990,14,Z,Illinois State,Redbirds,ILST,509aacc4-c121-46a2-800a-d5431ef181d2,Illinois St.,299
+1990,14,W,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+1990,14,X,Texas Southern,Tigers,TXSO,eb157f98-0697-459c-9293-ddb162ceb28b,Texas Southern,699
+1990,14,Y,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+1990,15,Y,Coppin State,Eagles,COPP,5f9a90a2-3926-404e-8c8a-d9f22ad6907d,Coppin St.,165
+1990,15,W,Robert Morris,Colonials,RMU,6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,579
+1990,15,X,Louisiana-Monroe,Warhawks,ULM,18585f21-1d63-4400-974c-433fd5073c34,La.-Monroe,498
+1990,15,Z,South Florida,Bulls,USF,55af9c69-3675-4b9b-a882-96640b782fff,South Fla.,651
+1990,16,W,Boston University,Terriers,BU,de9a0e19-b83c-4b98-a6da-81c110cb364b,Boston U.,68
+1990,16,Y,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1990,16,X,Towson,Tigers,TOWS,6f3eec09-2918-4739-a0e8-5d79e14a8332,Towson,711
+1990,16,Z,Arkansas-Little Rock,Trojans,UALR,0dadedb0-2bd3-45e7-91a3-93af6c4e87f2,Little Rock,32
+1991,1,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1991,1,Y,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+1991,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1991,1,Z,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1991,2,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1991,2,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1991,2,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1991,2,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1991,3,Z,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+1991,3,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1991,3,Y,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+1991,3,W,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1991,4,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1991,4,Y,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1991,4,W,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1991,4,Z,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1991,5,W,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+1991,5,Z,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1991,5,Y,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1991,5,X,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1991,6,Y,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1991,6,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+1991,6,Z,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+1991,6,X,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+1991,7,X,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+1991,7,Y,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1991,7,W,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1991,7,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1991,8,X,Arizona State,Sun Devils,ASU,ad4bc983-8d2e-4e6f-a8f9-80840a786c64,Arizona St.,28
+1991,8,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1991,8,Z,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1991,8,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1991,9,Y,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1991,9,X,Rutgers,Scarlet Knights,RUTG,b03bb029-4499-4a2c-9074-5071ed360b21,Rutgers,587
+1991,9,Z,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+1991,9,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1991,10,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1991,10,Y,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+1991,10,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1991,10,X,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+1991,11,Y,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1991,11,Z,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+1991,11,X,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+1991,11,W,Southern Miss,Golden Eagles,USM,6120ac5d-e0f2-4b28-9e6f-ee71596a7e88,Southern Miss.,664
+1991,12,W,Eastern Michigan,Eagles,EMU,2ed86226-3fff-4083-90fa-6b02307e6f73,Eastern Mich.,204
+1991,12,Z,Green Bay,Phoenix,GB,61a3e5ab-1be3-4694-b83f-edae0953f409,Green Bay,794
+1991,12,X,Louisiana Tech,Bulldogs,LT,8ff733a9-9f93-46de-ba7e-cf6f7e429670,Louisiana Tech,366
+1991,12,Y,St. Peter's,Peacocks,SPC,e66d7ed2-9b4c-48c8-adaa-a276793b057d,Saint Peter's,617
+1991,13,X,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1991,13,Y,Northern Illinois,Huskies,NIU,3f0ac618-3742-471a-9d1f-03e08f3deca2,Northern Ill.,503
+1991,13,W,Penn State,Nittany Lions,PSU,4aebd148-8119-4875-954c-66779867989b,Penn St.,539
+1991,13,Z,South Alabama,Jaguars,USA,10c614fa-9646-46cf-a1fb-5af96772bbb8,South Ala.,646
+1991,14,Z,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+1991,14,W,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1991,14,X,New Orleans,Privateers,UNO,e7ff6d5c-07e9-42af-955d-0a0b8c1e2288,New Orleans,474
+1991,14,Y,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1991,15,X,Coastal Carolina,Chanticleers,CCAR,4af63ebd-d3c8-4772-bbde-938a078bd057,Coastal Caro.,149
+1991,15,W,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+1991,15,Z,St. Francis (PA),Red Flash,SFPA,6637ac5f-59c2-4888-af34-a86d138ccfb3,Saint Francis (PA),600
+1991,15,Y,Louisiana-Monroe,Warhawks,ULM,18585f21-1d63-4400-974c-433fd5073c34,La.-Monroe,498
+1991,16,X,Georgia State,Panthers,GAST,94ea835b-8ce9-4de2-a5b1-971548fea974,Georgia St.,254
+1991,16,Z,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+1991,16,W,Northeastern,Huskies,NE,93df9b18-e9fc-42a7-bb45-a736c203b4dc,Northeastern,500
+1991,16,Y,Towson,Tigers,TOWS,6f3eec09-2918-4739-a0e8-5d79e14a8332,Towson,711
+1992,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1992,1,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1992,1,Z,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+1992,1,X,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1992,2,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1992,2,Z,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1992,2,W,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1992,2,Y,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+1992,3,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1992,3,Y,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1992,3,X,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+1992,3,W,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1992,4,Y,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1992,4,W,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+1992,4,X,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1992,4,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1992,5,Z,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1992,5,X,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+1992,5,W,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1992,5,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1992,6,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1992,6,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1992,6,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1992,6,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1992,7,W,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+1992,7,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1992,7,X,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1992,7,Z,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1992,8,Y,Evansville,Aces,EVAN,d8217105-e9c2-4267-9538-3aaeea1ae167,Evansville,219
+1992,8,X,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1992,8,Z,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+1992,8,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1992,9,Z,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1992,9,W,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1992,9,Y,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+1992,9,X,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1992,10,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1992,10,Y,Houston,Cougars,HOU,1f99a164-d593-4d81-85d5-0d7889d6f486,Houston,288
+1992,10,W,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1992,10,Z,Tulane,Green Wave,TULN,399ad7fb-de60-45a6-a71f-d26e00f1a4ec,Tulane,718
+1992,11,Y,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+1992,11,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1992,11,Z,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1992,11,X,South Florida,Bulls,USF,55af9c69-3675-4b9b-a882-96640b782fff,South Fla.,651
+1992,12,Y,Missouri State,Bears,MOSU,b83de2df-328f-4303-9895-cdff048fb1ed,Missouri St.,669
+1992,12,X,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+1992,12,Z,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1992,12,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+1992,13,Y,Delaware,Fightin Blue Hens,DEL,0affc15f-641d-4211-970d-fb9fb8d36842,Delaware,180
+1992,13,W,La Salle,Explorers,LAS,ad9a3e21-4585-4e35-8946-290fe4a16f18,La Salle,340
+1992,13,Z,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+1992,13,X,Louisiana-Lafayette,Ragin' Cajuns,ULL,63cad858-8654-4956-8438-8fe79cd1208a,Louisiana,671
+1992,14,Z,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+1992,14,W,Fordham,Rams,FOR,7888d144-563d-4f84-b99b-d120aecf1fef,Fordham,236
+1992,14,X,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+1992,14,Y,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1992,15,X,Eastern Illinois,Panthers,EIU,23fec4e7-108f-4569-85d1-bef2f794e925,Eastern Ill.,201
+1992,15,Z,Georgia Southern,Eagles,GASO,6b955b96-b736-475e-bffd-e4acf2054169,Ga. Southern,253
+1992,15,W,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+1992,15,Y,Louisiana-Monroe,Warhawks,ULM,18585f21-1d63-4400-974c-433fd5073c34,La.-Monroe,498
+1992,16,W,Campbell,Fighting Camels,CAMP,6e5dfe2c-28cc-411f-b846-af8436093ab2,Campbell,115
+1992,16,Y,Howard,Bison,HOW,22fbe5dc-c6db-4675-b3a3-2d8af7f5d313,Howard,290
+1992,16,Z,Mississippi Valley State,Delta Devils,MVSU,5873529e-e5e3-4a06-8a03-fa4cbe509880,Mississippi Val.,432
+1992,16,X,Robert Morris,Colonials,RMU,6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,579
+1993,1,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1993,1,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1993,1,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1993,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1993,2,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1993,2,W,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1993,2,Y,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+1993,2,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1993,3,X,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1993,3,Y,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+1993,3,W,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1993,3,Z,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+1993,4,W,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1993,4,Z,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1993,4,Y,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1993,4,X,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1993,5,X,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1993,5,W,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1993,5,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1993,5,Y,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1993,6,X,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+1993,6,Z,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1993,6,Y,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+1993,6,W,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1993,7,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1993,7,W,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+1993,7,Z,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1993,7,Y,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+1993,8,Z,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1993,8,X,New Orleans,Privateers,UNO,e7ff6d5c-07e9-42af-955d-0a0b8c1e2288,New Orleans,474
+1993,8,W,Rhode Island,Rams,URI,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,572
+1993,8,Y,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1993,9,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+1993,9,W,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1993,9,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1993,9,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1993,10,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1993,10,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1993,10,W,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+1993,10,X,SMU,Mustangs,SMU,3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,663
+1993,11,Z,Long Beach State,49ers,LBSU,11a617d5-af03-4cce-bc8a-51114d9e41fe,Long Beach St.,99
+1993,11,X,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+1993,11,W,Manhattan,Jaspers,MAN,7a270923-01d6-4a6f-a93e-e8786266d502,Manhattan,381
+1993,11,Y,Tulane,Green Wave,TULN,399ad7fb-de60-45a6-a71f-d26e00f1a4ec,Tulane,718
+1993,12,Y,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+1993,12,Z,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+1993,12,X,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+1993,12,W,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+1993,13,X,Delaware,Fightin Blue Hens,DEL,0affc15f-641d-4211-970d-fb9fb8d36842,Delaware,180
+1993,13,W,Holy Cross,Crusaders,HC,31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,285
+1993,13,Z,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+1993,13,Y,Louisiana-Monroe,Warhawks,ULM,18585f21-1d63-4400-974c-433fd5073c34,La.-Monroe,498
+1993,14,Z,Boise State,Broncos,BSU,c1c54dbf-805c-47fc-a707-c803e94db2a4,Boise St.,66
+1993,14,Y,Evansville,Aces,EVAN,d8217105-e9c2-4267-9538-3aaeea1ae167,Evansville,219
+1993,14,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+1993,14,X,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+1993,15,X,Ball State,Cardinals,BALL,315c4deb-3c9d-413d-a369-7168f2545d21,Ball St.,47
+1993,15,W,Coppin State,Eagles,COPP,5f9a90a2-3926-404e-8c8a-d9f22ad6907d,Coppin St.,165
+1993,15,Z,Santa Clara,Broncos,SCU,28023973-1d9d-4d01-b939-dc8f9b44fb1c,Santa Clara,631
+1993,15,Y,Tennessee State,Tigers,TNST,87721c44-53a2-47aa-9b3a-0f1c99b0f328,Tennessee St.,691
+1993,16,Z,Coastal Carolina,Chanticleers,CCAR,4af63ebd-d3c8-4772-bbde-938a078bd057,Coastal Caro.,149
+1993,16,W,East Carolina,Pirates,ECU,a601205f-3bfe-4052-ac0b-b8f18cf3efd3,East Carolina,196
+1993,16,Y,Rider,Broncs,RID,0b73b9b9-1e29-4b14-b5d8-0405fe942e32,Rider,576
+1993,16,X,Wright State,Raiders,WRST,9c396fa7-c165-4599-8542-158bd0d9a199,Wright St.,810
+1994,1,Y,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1994,1,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1994,1,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1994,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1994,2,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1994,2,W,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1994,2,X,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1994,2,Y,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1994,3,W,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+1994,3,Z,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1994,3,Y,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1994,3,X,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1994,4,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1994,4,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1994,4,Z,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1994,4,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1994,5,Z,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+1994,5,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1994,5,Y,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1994,5,X,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1994,6,X,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+1994,6,Z,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+1994,6,W,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+1994,6,Y,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1994,7,X,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1994,7,Y,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+1994,7,W,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+1994,7,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1994,8,Z,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1994,8,Y,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1994,8,X,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+1994,8,W,Washington State,Cougars,WSU,2d4f0015-adb4-4877-8c15-4a6eed7eed03,Washington St.,754
+1994,9,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1994,9,W,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+1994,9,Y,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1994,9,Z,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+1994,10,W,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+1994,10,X,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+1994,10,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1994,10,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1994,11,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+1994,11,Z,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+1994,11,X,Louisiana-Lafayette,Ragin' Cajuns,ULL,63cad858-8654-4956-8438-8fe79cd1208a,Louisiana,671
+1994,11,Y,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+1994,12,X,Charleston,Cougars,COFC,8548dacb-3636-48a8-8c46-611ab0c15fc0,Col. of Charleston,1014
+1994,12,Z,Green Bay,Phoenix,GB,61a3e5ab-1be3-4694-b83f-edae0953f409,Green Bay,794
+1994,12,W,Ohio,Bobcats,OHIO,327f09e2-e75f-4014-8ef7-caf9202cd583,Ohio,519
+1994,12,Y,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1994,13,X,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+1994,13,W,Drexel,Dragons,DREX,f2d01b77-0f5d-4574-9e49-2a3eaf822e44,Drexel,191
+1994,13,Z,Hawaii,Warriors,HAW,d4dc55b3-94fe-4d4f-b0bf-c50c5f064392,Hawaii,277
+1994,13,Y,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+1994,14,Z,Boise State,Broncos,BSU,c1c54dbf-805c-47fc-a707-c803e94db2a4,Boise St.,66
+1994,14,W,James Madison,Dukes,JMU,524e3eec-7dde-45c7-b3cc-6308cec73350,James Madison,317
+1994,14,Y,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+1994,14,X,Tennessee State,Tigers,TNST,87721c44-53a2-47aa-9b3a-0f1c99b0f328,Tennessee St.,691
+1994,15,Z,Loyola (MD),Greyhounds,L-MD,175d34a7-3823-4e4f-9f11-2464f55360b8,Loyola Maryland,369
+1994,15,W,Rider,Broncs,RID,0b73b9b9-1e29-4b14-b5d8-0405fe942e32,Rider,576
+1994,15,X,Texas Southern,Tigers,TXSO,eb157f98-0697-459c-9293-ddb162ceb28b,Texas Southern,699
+1994,15,Y,Texas State,Bobcats,TXST,1e5dc9e4-c60d-487b-8279-dfbec9229faa,Texas St.,670
+1994,16,W,Liberty,Flames,LIB,559db90c-741f-40d1-aa81-3fdd1d4889f3,Liberty,355
+1994,16,Z,Navy,Midshipmen,NAVY,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,726
+1994,16,Y,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+1994,16,X,UCF,Knights,UCF,054c3e85-0552-4549-b123-7e84af6e7b6c,UCF,128
+1995,1,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1995,1,X,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1995,1,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1995,1,W,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1995,2,Y,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1995,2,X,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1995,2,W,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1995,2,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1995,3,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1995,3,Z,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1995,3,Y,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1995,3,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1995,4,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1995,4,W,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1995,4,X,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1995,4,Y,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1995,5,W,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+1995,5,Y,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1995,5,Z,Arizona State,Sun Devils,ASU,ad4bc983-8d2e-4e6f-a8f9-80840a786c64,Arizona St.,28
+1995,5,X,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+1995,6,Z,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1995,6,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1995,6,X,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+1995,6,W,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1995,7,W,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+1995,7,X,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1995,7,Z,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1995,7,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1995,8,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+1995,8,W,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+1995,8,X,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1995,8,Y,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+1995,9,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1995,9,Y,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1995,9,W,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+1995,9,Z,Tulane,Green Wave,TULN,399ad7fb-de60-45a6-a71f-d26e00f1a4ec,Tulane,718
+1995,10,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+1995,10,Y,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+1995,10,W,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1995,10,X,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1995,11,W,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1995,11,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1995,11,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1995,11,Z,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1995,12,Z,Ball State,Cardinals,BALL,315c4deb-3c9d-413d-a369-7168f2545d21,Ball St.,47
+1995,12,Y,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+1995,12,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+1995,12,X,Santa Clara,Broncos,SCU,28023973-1d9d-4d01-b939-dc8f9b44fb1c,Santa Clara,631
+1995,13,W,Drexel,Dragons,DREX,f2d01b77-0f5d-4574-9e49-2a3eaf822e44,Drexel,191
+1995,13,X,Long Beach State,49ers,LBSU,11a617d5-af03-4cce-bc8a-51114d9e41fe,Long Beach St.,99
+1995,13,Z,Manhattan,Jaspers,MAN,7a270923-01d6-4a6f-a93e-e8786266d502,Manhattan,381
+1995,13,Y,Nicholls State,Colonels,NICH,c0d19efd-d40c-4e32-8e90-dbcb28178b5d,Nicholls St.,483
+1995,14,Y,Green Bay,Phoenix,GB,61a3e5ab-1be3-4694-b83f-edae0953f409,Green Bay,794
+1995,14,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+1995,14,W,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+1995,14,Z,Weber State,Wildcats,WEB,4743cb7c-784a-4b95-a380-5471f92f2217,Weber St.,758
+1995,15,X,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+1995,15,Z,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1995,15,W,St. Peter's,Peacocks,SPC,e66d7ed2-9b4c-48c8-adaa-a276793b057d,Saint Peter's,617
+1995,15,Y,Texas Southern,Tigers,TXSO,eb157f98-0697-459c-9293-ddb162ceb28b,Texas Southern,699
+1995,16,Y,Colgate,Raiders,COLG,80a19b57-d6ab-4bee-934f-33a72c2e958a,Colgate,153
+1995,16,X,Florida International,Golden Panthers,FIU,a8ac24ca-3b7a-4610-ad99-042661584c48,FIU,231
+1995,16,Z,Mount St. Mary's,Mountaineers,MSM,5fe4a398-1699-4442-a364-305b2f0ac01e,Mt. St. Mary's,450
+1995,16,W,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+1996,1,Y,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1996,1,W,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1996,1,Z,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1996,1,X,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1996,2,Y,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1996,2,W,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1996,2,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1996,2,X,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1996,3,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1996,3,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+1996,3,W,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+1996,3,X,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1996,4,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+1996,4,Z,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1996,4,Y,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1996,4,X,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1996,5,X,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1996,5,Z,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+1996,5,Y,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+1996,5,W,Penn State,Nittany Lions,PSU,4aebd148-8119-4875-954c-66779867989b,Penn St.,539
+1996,6,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1996,6,Z,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1996,6,X,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1996,6,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1996,7,Z,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1996,7,X,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1996,7,Y,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1996,7,W,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1996,8,W,Bradley,Braves,BRAD,b47d10b8-a2a5-47df-a2f9-7bd0b9d51beb,Bradley,72
+1996,8,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1996,8,X,Green Bay,Phoenix,GB,61a3e5ab-1be3-4694-b83f-edae0953f409,Green Bay,794
+1996,8,Z,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+1996,9,Z,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+1996,9,Y,Eastern Michigan,Eagles,EMU,2ed86226-3fff-4083-90fa-6b02307e6f73,Eastern Mich.,204
+1996,9,W,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1996,9,X,Virginia Tech,Hokies,VT,324ccccc-575b-4b82-acb0-fbb8e68da13b,Virginia Tech,742
+1996,10,W,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+1996,10,Y,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1996,10,Z,Santa Clara,Broncos,SCU,28023973-1d9d-4d01-b939-dc8f9b44fb1c,Santa Clara,631
+1996,10,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1996,11,Y,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+1996,11,Z,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+1996,11,X,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1996,11,W,New Orleans,Privateers,UNO,e7ff6d5c-07e9-42af-955d-0a0b8c1e2288,New Orleans,474
+1996,12,W,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1996,12,X,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+1996,12,Z,Drexel,Dragons,DREX,f2d01b77-0f5d-4574-9e49-2a3eaf822e44,Drexel,191
+1996,12,Y,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+1996,13,X,Canisius,Golden Griffins,CAN,0113eea0-c943-4fff-9780-ae0fb099e7ef,Canisius,116
+1996,13,W,Monmouth,Hawks,MONM,3db7336c-c18a-441b-912e-e2a4408f12ea,Monmouth,439
+1996,13,Z,Montana State,Bobcats,MTST,bec40585-b587-4548-93f5-b7c00b046aea,Montana St.,440
+1996,13,Y,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1996,14,W,Northern Illinois,Huskies,NIU,3f0ac618-3742-471a-9d1f-03e08f3deca2,Northern Ill.,503
+1996,14,Y,Austin Peay,Governors,PEAY,a0fdb660-a822-4337-b01d-31c4d2c99c8a,Austin Peay,43
+1996,14,X,Portland,Pilots,PORT,224e3b21-30e7-4a05-9e8c-62721d581db8,Portland,551
+1996,14,Z,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+1996,15,W,Mississippi Valley State,Delta Devils,MVSU,5873529e-e5e3-4a06-8a03-fa4cbe509880,Mississippi Val.,432
+1996,15,Z,South Carolina State,Bulldogs,SCST,a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,South Carolina St.,647
+1996,15,X,Louisiana-Monroe,Warhawks,ULM,18585f21-1d63-4400-974c-433fd5073c34,La.-Monroe,498
+1996,15,Y,UNC Greensboro,Spartans,UNCG,612f7f66-1de1-4d42-b842-9a508daab911,UNCG,459
+1996,16,Y,Colgate,Raiders,COLG,80a19b57-d6ab-4bee-934f-33a72c2e958a,Colgate,153
+1996,16,X,San Jose State,Spartans,SJSU,29de4e5e-ee5b-48c8-bffc-1972e7da1e30,San Jose St.,630
+1996,16,W,UCF,Knights,UCF,054c3e85-0552-4549-b123-7e84af6e7b6c,UCF,128
+1996,16,Z,Western Carolina,Catamounts,WCU,6bff595c-32cb-4028-837c-c7de2a2107e6,Western Caro.,769
+1997,1,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1997,1,Y,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+1997,1,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1997,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1997,2,X,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1997,2,W,South Carolina,Gamecocks,SCAR,1c7ec608-3b36-4cee-adac-9265e3792597,South Carolina,648
+1997,2,Y,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1997,2,Z,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1997,3,Y,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1997,3,X,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+1997,3,W,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1997,3,Z,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+1997,4,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1997,4,Y,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+1997,4,Z,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+1997,4,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1997,5,Z,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+1997,5,W,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+1997,5,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1997,5,Y,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1997,6,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1997,6,Y,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+1997,6,W,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1997,6,Z,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1997,7,Z,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+1997,7,X,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+1997,7,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+1997,7,Y,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1997,8,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1997,8,Z,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1997,8,Y,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+1997,8,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1997,9,W,Colorado,Buffaloes,COLO,9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,157
+1997,9,Y,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1997,9,X,Rhode Island,Rams,URI,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,572
+1997,9,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+1997,10,Z,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+1997,10,X,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+1997,10,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1997,10,Y,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+1997,11,Y,Illinois State,Redbirds,ILST,509aacc4-c121-46a2-800a-d5431ef181d2,Illinois St.,299
+1997,11,W,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1997,11,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1997,11,X,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+1997,12,Y,Boston University,Terriers,BU,de9a0e19-b83c-4b98-a6da-81c110cb364b,Boston U.,68
+1997,12,X,Charleston,Cougars,COFC,8548dacb-3636-48a8-8c46-611ab0c15fc0,Col. of Charleston,1014
+1997,12,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1997,12,Z,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+1997,13,W,LIU Brooklyn,Blackbirds,LIU,82c12e8d-7c6c-47d8-b100-3cbc190d268e,LIU Brooklyn,361
+1997,13,Y,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+1997,13,Z,Pacific,Tigers,PAC,c9570e17-c4fd-41e6-908a-1a083941319d,Pacific,534
+1997,13,X,South Alabama,Jaguars,USA,10c614fa-9646-46cf-a1fb-5af96772bbb8,South Ala.,646
+1997,14,Y,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+1997,14,X,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+1997,14,W,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+1997,14,Z,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+1997,15,Y,Charleston Southern,Buccaneers,CHSO,a3fef707-e4fc-48a0-82f1-f4ef01b76f45,Charleston So.,48
+1997,15,W,Coppin State,Eagles,COPP,5f9a90a2-3926-404e-8c8a-d9f22ad6907d,Coppin St.,165
+1997,15,X,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1997,15,Z,Navy,Midshipmen,NAVY,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,726
+1997,16,W,Fairfield,Stags,FAIR,a381465b-4530-4a00-a50c-5253cd7695a0,Fairfield,220
+1997,16,X,Jackson State,Tigers,JKST,c444e03b-d16b-48b2-9b18-823c2647d41d,Jackson St.,314
+1997,16,Z,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+1997,16,Y,Texas State,Bobcats,TXST,1e5dc9e4-c60d-487b-8279-dfbec9229faa,Texas St.,670
+1998,1,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1998,1,Z,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1998,1,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1998,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1998,2,X,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1998,2,W,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1998,2,Y,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1998,2,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1998,3,Z,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+1998,3,W,South Carolina,Gamecocks,SCAR,1c7ec608-3b36-4cee-adac-9265e3792597,South Carolina,648
+1998,3,Y,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1998,3,X,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1998,4,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1998,4,Y,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+1998,4,W,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1998,4,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1998,5,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+1998,5,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+1998,5,Z,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1998,5,Y,TCU,Horned Frogs,TCU,f7fcbb6e-4a55-41ea-ba21-f763ed914467,TCU,698
+1998,6,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1998,6,Y,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+1998,6,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1998,6,W,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+1998,7,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1998,7,Z,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+1998,7,Y,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1998,7,X,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1998,8,W,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+1998,8,Z,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1998,8,X,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+1998,8,Y,Rhode Island,Rams,URI,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,572
+1998,9,Z,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+1998,9,X,Illinois State,Redbirds,ILST,509aacc4-c121-46a2-800a-d5431ef181d2,Illinois St.,299
+1998,9,Y,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1998,9,W,Illinois-Chicago,Flames,UIC,dfe0d93f-94a5-47fb-b7aa-f74786e09acb,Ill.-Chicago,302
+1998,10,Y,Detroit,Titans,DET,1b78e7f6-f25c-4921-98e2-9bc565f8dfb4,Detroit Mercy,184
+1998,10,W,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1998,10,Z,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+1998,10,X,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+1998,11,Z,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+1998,11,X,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+1998,11,W,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+1998,11,Y,Western Michigan,Broncos,WMU,f2164f01-2cbc-4967-bb1c-93656d790921,Western Mich.,774
+1998,12,Y,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+1998,12,Z,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+1998,12,W,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+1998,12,X,South Alabama,Jaguars,USA,10c614fa-9646-46cf-a1fb-5af96772bbb8,South Ala.,646
+1998,13,Z,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+1998,13,W,Eastern Michigan,Eagles,EMU,2ed86226-3fff-4083-90fa-6b02307e6f73,Eastern Mich.,204
+1998,13,X,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+1998,13,Y,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+1998,14,Y,Charleston,Cougars,COFC,8548dacb-3636-48a8-8c46-611ab0c15fc0,Col. of Charleston,1014
+1998,14,Z,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+1998,14,W,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+1998,14,X,San Francisco,Dons,SF,d24efd99-8717-43b9-a086-9986a684ac04,San Francisco,629
+1998,15,Y,Delaware,Fightin Blue Hens,DEL,0affc15f-641d-4211-970d-fb9fb8d36842,Delaware,180
+1998,15,W,Fairleigh Dickinson,Knights,FDU,b71d5a1b-2671-4e5a-b94b-06bfb22a27dd,Fairleigh Dickinson,222
+1998,15,X,Northern Arizona,Lumberjacks,NAU,1753768d-e46e-40b1-8d69-a8ae5cccec03,Northern Ariz.,501
+1998,15,Z,South Carolina State,Bulldogs,SCST,a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,South Carolina St.,647
+1998,16,W,Navy,Midshipmen,NAVY,3b088563-ca8a-49a6-9e19-5e4cb186ae1d,Navy,726
+1998,16,X,Nicholls State,Colonels,NICH,c0d19efd-d40c-4e32-8e90-dbcb28178b5d,Nicholls St.,483
+1998,16,Y,Prairie View A&M,Panthers,PV,91ec9ba2-12e5-4a75-9410-a166c82163fd,Prairie View,553
+1998,16,Z,Radford,Highlanders,RAD,f2cf9ba2-ac8c-4d92-8e7a-48dd88e8f40b,Radford,563
+1999,1,Y,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+1999,1,Z,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+1999,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+1999,1,X,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+1999,2,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+1999,2,W,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+1999,2,Z,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+1999,2,X,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+1999,3,W,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+1999,3,Y,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+1999,3,X,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+1999,3,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+1999,4,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+1999,4,Z,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+1999,4,Y,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+1999,4,W,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+1999,5,X,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+1999,5,Z,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+1999,5,Y,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+1999,5,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+1999,6,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+1999,6,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+1999,6,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+1999,6,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+1999,7,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+1999,7,Z,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+1999,7,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+1999,7,X,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+1999,8,W,Charleston,Cougars,COFC,8548dacb-3636-48a8-8c46-611ab0c15fc0,Col. of Charleston,1014
+1999,8,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+1999,8,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+1999,8,X,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+1999,9,X,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+1999,9,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+1999,9,W,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+1999,9,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+1999,10,Y,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+1999,10,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+1999,10,X,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+1999,10,W,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+1999,11,X,Evansville,Aces,EVAN,d8217105-e9c2-4267-9538-3aaeea1ae167,Evansville,219
+1999,11,Y,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+1999,11,W,Kent State,Golden Flashes,KENT,3da4798c-2d58-4dac-b66e-ad145a91b544,Kent St.,331
+1999,11,Z,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+1999,12,Y,Detroit,Titans,DET,1b78e7f6-f25c-4921-98e2-9bc565f8dfb4,Detroit Mercy,184
+1999,12,W,Missouri State,Bears,MOSU,b83de2df-328f-4303-9895-cdff048fb1ed,Missouri St.,669
+1999,12,Z,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+1999,12,X,Rhode Island,Rams,URI,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,572
+1999,13,W,Delaware,Fightin Blue Hens,DEL,0affc15f-641d-4211-970d-fb9fb8d36842,Delaware,180
+1999,13,Y,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+1999,13,X,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+1999,13,Z,Siena,Saints,SIE,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,639
+1999,14,W,George Mason,Patriots,GMU,e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,248
+1999,14,X,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+1999,14,Y,Samford,Bulldogs,SAM,c13f96ba-c79c-452f-9f63-3b45fae4e543,Samford,625
+1999,14,Z,Weber State,Wildcats,WEB,4743cb7c-784a-4b95-a380-5471f92f2217,Weber St.,758
+1999,15,Z,Alcorn State,Braves,ALCN,1bddc811-44cf-4e53-b4ab-11c8dc82c9de,Alcorn,17
+1999,15,X,Arkansas State,Red Wolves,ARST,95826e36-ea33-4b51-83a8-7b4cc20999ee,Arkansas St.,30
+1999,15,W,Lafayette,Leopards,LAF,6af02334-9ac3-452f-bcf4-20abdb72bd07,Lafayette,342
+1999,15,Y,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+1999,16,W,Florida A&M,Rattlers,FAMU,cec2527e-5e1e-4817-a628-35666ef13b6e,Florida A&M,228
+1999,16,X,Mount St. Mary's,Mountaineers,MSM,5fe4a398-1699-4442-a364-305b2f0ac01e,Mt. St. Mary's,450
+1999,16,Z,UTSA,Roadrunners,UTSA,953151f2-1e42-4cb0-a99e-202493a64dcf,UTSA,706
+1999,16,Y,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2000,1,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2000,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2000,1,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2000,1,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2000,2,X,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2000,2,Y,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2000,2,Z,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+2000,2,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2000,3,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2000,3,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2000,3,W,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2000,3,X,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2000,4,W,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2000,4,Z,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+2000,4,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2000,4,X,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2000,5,X,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2000,5,W,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2000,5,Z,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2000,5,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2000,6,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2000,6,X,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+2000,6,Z,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2000,6,Y,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2000,7,Y,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+2000,7,Z,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2000,7,W,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2000,7,X,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+2000,8,W,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2000,8,X,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2000,8,Y,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2000,8,Z,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2000,9,W,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+2000,9,Z,Fresno State,Bulldogs,FRES,dd8db4d8-d984-4cab-b7f6-22c6b8c2c45f,Fresno St.,96
+2000,9,X,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2000,9,Y,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+2000,10,Y,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2000,10,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2000,10,W,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+2000,10,X,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2000,11,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2000,11,Y,Ball State,Cardinals,BALL,315c4deb-3c9d-413d-a369-7168f2545d21,Ball St.,47
+2000,11,Z,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2000,11,W,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+2000,12,W,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2000,12,Z,Indiana State,Sycamores,INST,2a997096-a381-469d-a7e9-9e031c8b071c,Indiana St.,305
+2000,12,Y,St. Bonaventure,Bonnies,SBON,22d90601-19d4-461b-a901-924d12f116ed,St. Bonaventure,596
+2000,12,X,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2000,13,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+2000,13,Y,Samford,Bulldogs,SAM,c13f96ba-c79c-452f-9f63-3b45fae4e543,Samford,625
+2000,13,Z,Southeast Missouri State,Redhawks,SEMO,6a7083ab-1832-48c0-9168-427b35adbcde,Southeast Mo. St.,654
+2000,13,X,Louisiana-Lafayette,Ragin' Cajuns,ULL,63cad858-8654-4956-8438-8fe79cd1208a,Louisiana,671
+2000,14,X,Appalachian State,Mountaineers,APP,87d88c93-29bc-4306-b0a6-87c6f6e80da1,Appalachian St.,27
+2000,14,W,Hofstra,Pride,HOF,36ca2008-cd2e-4549-8b3b-c745167e07f3,Hofstra,283
+2000,14,Y,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+2000,14,Z,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2000,15,Y,Central Connecticut State,Blue Devils,CCSU,a93bf4f2-3724-4539-8c8a-9ac8ee3741a6,Central Conn. St.,127
+2000,15,W,Lafayette,Leopards,LAF,6af02334-9ac3-452f-bcf4-20abdb72bd07,Lafayette,342
+2000,15,Z,Northern Arizona,Lumberjacks,NAU,1753768d-e46e-40b1-8d69-a8ae5cccec03,Northern Ariz.,501
+2000,15,X,North Carolina-Wilmington,Seahawks,UNCW,c54279f9-3028-4663-893a-7d22482f8098,UNCW,460
+2000,16,Z,Jackson State,Tigers,JKST,c444e03b-d16b-48b2-9b18-823c2647d41d,Jackson St.,314
+2000,16,W,Lamar,Cardinals,LAM,eda6c307-1e0f-4a28-82f4-ee9653b343fb,Lamar University,346
+2000,16,X,South Carolina State,Bulldogs,SCST,a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,South Carolina St.,647
+2000,16,Y,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+2001,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2001,1,Y,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2001,1,Z,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2001,1,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2001,2,Y,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2001,2,X,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2001,2,W,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2001,2,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2001,3,W,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2001,3,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2001,3,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2001,3,Y,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+2001,4,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2001,4,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2001,4,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2001,4,W,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2001,5,X,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2001,5,W,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2001,5,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2001,5,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2001,6,Y,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2001,6,Z,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2001,6,W,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2001,6,X,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2001,7,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2001,7,W,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+2001,7,Z,Penn State,Nittany Lions,PSU,4aebd148-8119-4875-954c-66779867989b,Penn St.,539
+2001,7,Y,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2001,8,Z,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2001,8,X,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+2001,8,Y,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2001,8,W,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+2001,9,Y,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+2001,9,Z,Fresno State,Bulldogs,FRES,dd8db4d8-d984-4cab-b7f6-22c6b8c2c45f,Fresno St.,96
+2001,9,X,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+2001,9,W,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2001,10,Y,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2001,10,W,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2001,10,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2001,10,Z,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+2001,11,X,Georgia State,Panthers,GAST,94ea835b-8ce9-4de2-a5b1-971548fea974,Georgia St.,254
+2001,11,W,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2001,11,Z,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2001,11,Y,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2001,12,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2001,12,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2001,12,Y,Hawaii,Warriors,HAW,d4dc55b3-94fe-4d4f-b0bf-c50c5f064392,Hawaii,277
+2001,12,W,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2001,13,Y,Cal State Northridge,Matadors,CSN,cb732075-23a5-4e71-9037-50a7a002bdb2,CSUN,101
+2001,13,W,Hofstra,Pride,HOF,36ca2008-cd2e-4549-8b3b-c745167e07f3,Hofstra,283
+2001,13,Z,Indiana State,Sycamores,INST,2a997096-a381-469d-a7e9-9e031c8b071c,Indiana St.,305
+2001,13,X,Kent State,Golden Flashes,KENT,3da4798c-2d58-4dac-b66e-ad145a91b544,Kent St.,331
+2001,14,X,George Mason,Patriots,GMU,e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,248
+2001,14,Y,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+2001,14,W,Southern Utah,Thunderbirds,SUU,c7116621-45ed-4ab1-9ad9-dee524120569,Southern Utah,667
+2001,14,Z,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2001,15,Y,Eastern Illinois,Panthers,EIU,23fec4e7-108f-4569-85d1-bef2f794e925,Eastern Ill.,201
+2001,15,X,Hampton,Pirates,HAMP,161354af-1f3e-4d58-88f7-e016ec74b7b6,Hampton,270
+2001,15,W,Holy Cross,Crusaders,HC,31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,285
+2001,15,Z,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+2001,16,Z,Alabama State,Hornets,ALST,267d417a-8f85-4c87-a15a-068c089a74c6,Alabama St.,7
+2001,16,W,Monmouth,Hawks,MONM,3db7336c-c18a-441b-912e-e2a4408f12ea,Monmouth,439
+2001,16,Y,Northwestern State,Demons,NWST,71874e7e-8260-43f9-bb7c-65f267dbe8ce,Northwestern St.,508
+2001,16,X,UNC Greensboro,Spartans,UNCG,612f7f66-1de1-4d42-b842-9a508daab911,UNCG,459
+2002,1,Z,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2002,1,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2002,1,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2002,1,W,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2002,2,Y,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+2002,2,W,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2002,2,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2002,2,X,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2002,3,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2002,3,X,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+2002,3,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2002,3,W,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+2002,4,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2002,4,Z,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2002,4,W,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2002,4,Y,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2002,5,X,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2002,5,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2002,5,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2002,5,Z,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+2002,6,Y,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2002,6,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2002,6,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2002,6,W,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+2002,7,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2002,7,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2002,7,X,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2002,7,Z,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2002,8,Y,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2002,8,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2002,8,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2002,8,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2002,9,Y,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+2002,9,Z,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+2002,9,W,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+2002,9,X,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2002,10,Z,Hawaii,Warriors,HAW,d4dc55b3-94fe-4d4f-b0bf-c50c5f064392,Hawaii,277
+2002,10,Y,Kent State,Golden Flashes,KENT,3da4798c-2d58-4dac-b66e-ad145a91b544,Kent St.,331
+2002,10,W,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2002,10,X,Pepperdine,Waves,PEPP,17479d6f-c8f1-458b-9412-8c76279a2bb4,Pepperdine,541
+2002,11,X,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2002,11,Y,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+2002,11,W,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+2002,11,Z,Wyoming,Cowboys,WYO,a7127c0a-a466-47ae-91ad-9a71ee2c9427,Wyoming,811
+2002,12,X,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2002,12,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2002,12,W,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+2002,12,Y,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2002,13,Z,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2002,13,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2002,13,Y,North Carolina-Wilmington,Seahawks,UNCW,c54279f9-3028-4663-893a-7d22482f8098,UNCW,460
+2002,13,W,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+2002,14,Y,Central Connecticut State,Blue Devils,CCSU,a93bf4f2-3724-4539-8c8a-9ac8ee3741a6,Central Conn. St.,127
+2002,14,X,McNeese State,Cowboys,MCNS,d2ef641c-70e4-48bb-b40d-ac654d179205,McNeese,402
+2002,14,W,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+2002,14,Z,UC Santa Barbara,Gauchos,UCSB,3b6293f3-03db-46d2-8793-248963c2d83b,UC Santa Barbara,104
+2002,15,Y,Florida Atlantic,Owls,FAU,c851131a-5ecd-4670-81bc-b40f4837dd65,Fla. Atlantic,229
+2002,15,W,Hampton,Pirates,HAMP,161354af-1f3e-4d58-88f7-e016ec74b7b6,Hampton,270
+2002,15,X,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+2002,15,Z,Illinois-Chicago,Flames,UIC,dfe0d93f-94a5-47fb-b7aa-f74786e09acb,Ill.-Chicago,302
+2002,16,Z,Boston University,Terriers,BU,de9a0e19-b83c-4b98-a6da-81c110cb364b,Boston U.,68
+2002,16,X,Holy Cross,Crusaders,HC,31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,285
+2002,16,W,Siena,Saints,SIE,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,639
+2002,16,Y,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2003,1,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2003,1,W,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2003,1,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2003,1,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2003,2,X,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2003,2,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2003,2,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2003,2,W,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2003,3,Z,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2003,3,Y,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2003,3,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2003,3,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2003,4,Y,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2003,4,Z,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2003,4,W,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2003,4,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2003,5,X,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2003,5,W,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+2003,5,Z,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2003,5,Y,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2003,6,Z,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2003,6,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2003,6,Y,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2003,6,W,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2003,7,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2003,7,W,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+2003,7,Z,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2003,7,X,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2003,8,W,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2003,8,Z,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2003,8,X,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+2003,8,Y,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2003,9,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2003,9,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2003,9,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2003,9,Y,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2003,10,Y,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+2003,10,Z,Arizona State,Sun Devils,ASU,ad4bc983-8d2e-4e6f-a8f9-80840a786c64,Arizona St.,28
+2003,10,W,Auburn,Tigers,AUB,0c0608b3-f349-4f5e-9a10-7e6a744dd0d2,Auburn,37
+2003,10,X,Colorado,Buffaloes,COLO,9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,157
+2003,11,Z,Central Michigan,Chippewas,CMU,472c22e0-843d-472c-a871-f1593fb0725d,Central Mich.,129
+2003,11,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+2003,11,Y,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+2003,11,X,North Carolina-Wilmington,Seahawks,UNCW,c54279f9-3028-4663-893a-7d22482f8098,UNCW,460
+2003,12,W,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2003,12,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2003,12,Z,Milwaukee,Panthers,MILW,5d77800f-1ae6-4b66-8e97-b0dbb8bbc717,Milwaukee,797
+2003,12,Y,Weber State,Wildcats,WEB,4743cb7c-784a-4b95-a380-5471f92f2217,Weber St.,758
+2003,13,W,Austin Peay,Governors,PEAY,a0fdb660-a822-4337-b01d-31c4d2c99c8a,Austin Peay,43
+2003,13,Y,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+2003,13,X,San Diego,Toreros,USD,620d5944-7156-47d3-aad5-5b3824557d03,San Diego,627
+2003,13,Z,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2003,14,Z,Colorado State,Rams,CSU,1a470730-f328-4fb1-8bbf-36a069e4d6b2,Colorado St.,156
+2003,14,Y,Holy Cross,Crusaders,HC,31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,285
+2003,14,W,Manhattan,Jaspers,MAN,7a270923-01d6-4a6f-a93e-e8786266d502,Manhattan,381
+2003,14,X,Troy,Trojans,TROY,6373b18c-62f6-49bc-bd4c-8959a2466516,Troy,716
+2003,15,W,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+2003,15,X,Sam Houston State,Bearkats,SHSU,67322042-9c40-4dc2-b33a-4754c02ec82a,Sam Houston St.,624
+2003,15,Z,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2003,15,Y,Wagner,Seahawks,WAG,3b644902-cd06-4930-9a3e-6c78cfb1f464,Wagner,748
+2003,16,Y,IUPUI,Jaguars,IUPU,90ec10eb-38a4-4a69-b072-ef71d294933b,IUPUI,2699
+2003,16,W,South Carolina State,Bulldogs,SCST,a44f8c85-7ab6-4a4e-b6f1-c69a4cabe1ed,South Carolina St.,647
+2003,16,X,UNC Asheville,Bulldogs,UNCA,ad9fce12-6b1a-400c-bcbe-29d84d065fc0,UNC Asheville,456
+2003,16,Z,Vermont,Catamounts,UVM,18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,738
+2004,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2004,1,Y,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+2004,1,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2004,1,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2004,2,X,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2004,2,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2004,2,W,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+2004,2,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2004,3,Z,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+2004,3,X,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2004,3,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2004,3,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2004,4,W,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2004,4,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2004,4,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2004,4,Y,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2004,5,Y,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2004,5,W,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2004,5,Z,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+2004,5,X,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2004,6,Z,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2004,6,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2004,6,X,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2004,6,Y,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2004,7,X,DePaul,Blue Demons,DEP,ee09e6ad-3872-4745-bbb9-ebbd5c6f8318,DePaul,176
+2004,7,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2004,7,Z,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2004,7,W,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2004,8,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+2004,8,W,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+2004,8,Y,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+2004,8,Z,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+2004,9,W,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2004,9,Y,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+2004,9,X,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+2004,9,Z,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+2004,10,X,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2004,10,W,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2004,10,Z,Nevada,Wolf Pack,NEV,62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,466
+2004,10,Y,South Carolina,Gamecocks,SCAR,1c7ec608-3b36-4cee-adac-9265e3792597,South Carolina,648
+2004,11,W,Air Force,Falcons,AFA,aa7af640-5762-4686-9181-39f7b8a8186e,Air Force,721
+2004,11,Y,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+2004,11,Z,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2004,11,X,Western Michigan,Broncos,WMU,f2164f01-2cbc-4967-bb1c-93656d790921,Western Mich.,774
+2004,12,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2004,12,Y,Manhattan,Jaspers,MAN,7a270923-01d6-4a6f-a93e-e8786266d502,Manhattan,381
+2004,12,W,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+2004,12,Z,Pacific,Tigers,PAC,c9570e17-c4fd-41e6-908a-1a083941319d,Pacific,534
+2004,13,W,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+2004,13,Z,Illinois-Chicago,Flames,UIC,dfe0d93f-94a5-47fb-b7aa-f74786e09acb,Ill.-Chicago,302
+2004,13,X,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+2004,13,Y,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2004,14,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+2004,14,Y,UCF,Knights,UCF,054c3e85-0552-4549-b123-7e84af6e7b6c,UCF,128
+2004,14,X,Louisiana-Lafayette,Ragin' Cajuns,ULL,63cad858-8654-4956-8438-8fe79cd1208a,Louisiana,671
+2004,14,Z,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2004,15,Y,Eastern Washington,Eagles,EWU,54df21af-8f65-42fc-bc01-8bf750856d70,Eastern Wash.,207
+2004,15,W,Monmouth,Hawks,MONM,3db7336c-c18a-441b-912e-e2a4408f12ea,Monmouth,439
+2004,15,X,Vermont,Catamounts,UVM,18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,738
+2004,15,Z,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+2004,16,W,Alabama State,Hornets,ALST,267d417a-8f85-4c87-a15a-068c089a74c6,Alabama St.,7
+2004,16,Z,Florida A&M,Rattlers,FAMU,cec2527e-5e1e-4817-a628-35666ef13b6e,Florida A&M,228
+2004,16,Y,Liberty,Flames,LIB,559db90c-741f-40d1-aa81-3fdd1d4889f3,Liberty,355
+2004,16,X,UTSA,Roadrunners,UTSA,953151f2-1e42-4cb0-a99e-202493a64dcf,UTSA,706
+2005,1,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2005,1,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2005,1,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2005,1,W,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+2005,2,Z,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2005,2,X,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2005,2,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2005,2,W,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2005,3,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2005,3,W,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2005,3,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2005,3,Y,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2005,4,X,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2005,4,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2005,4,W,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2005,4,Y,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2005,5,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+2005,5,W,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+2005,5,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2005,5,Z,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2005,6,X,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+2005,6,W,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+2005,6,Y,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2005,6,Z,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2005,7,Z,Charlotte,49ers,CHAR,8ddbfca9-a931-4908-aa31-9fcd17624b5f,Charlotte,458
+2005,7,Y,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2005,7,X,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+2005,7,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2005,8,Z,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+2005,8,W,Pacific,Tigers,PAC,c9570e17-c4fd-41e6-908a-1a083941319d,Pacific,534
+2005,8,Y,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2005,8,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2005,9,Z,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2005,9,Y,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+2005,9,X,Nevada,Wolf Pack,NEV,62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,466
+2005,9,W,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2005,10,W,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2005,10,Y,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+2005,10,Z,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2005,10,X,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+2005,11,X,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+2005,11,W,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2005,11,Z,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2005,11,Y,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+2005,12,W,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+2005,12,X,Milwaukee,Panthers,MILW,5d77800f-1ae6-4b66-8e97-b0dbb8bbc717,Milwaukee,797
+2005,12,Y,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+2005,12,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+2005,13,Z,Ohio,Bobcats,OHIO,327f09e2-e75f-4014-8ef7-caf9202cd583,Ohio,519
+2005,13,X,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+2005,13,W,Louisiana-Lafayette,Ragin' Cajuns,ULL,63cad858-8654-4956-8438-8fe79cd1208a,Louisiana,671
+2005,13,Y,Vermont,Catamounts,UVM,18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,738
+2005,14,Z,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+2005,14,Y,Niagara,Purple Eagles,NIAG,f7575278-12ec-494a-b544-427c1759d43d,Niagara,482
+2005,14,X,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2005,14,W,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2005,15,W,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+2005,15,Y,Eastern Kentucky,Colonels,EKY,e48e3dd5-721c-4d96-8ff4-790fe2597bfd,Eastern Ky.,202
+2005,15,X,Southeastern Louisiana,Lions,SELA,55cd5bb4-b030-4a7a-9652-6cebaf81c574,Southeastern La.,655
+2005,15,Z,UCF,Knights,UCF,054c3e85-0552-4549-b123-7e84af6e7b6c,UCF,128
+2005,16,Y,Delaware State,Hornets,DSU,ffa04cde-aa2d-4e91-b2cd-bde2bfed44de,Delaware St.,178
+2005,16,X,Fairleigh Dickinson,Knights,FDU,b71d5a1b-2671-4e5a-b94b-06bfb22a27dd,Fairleigh Dickinson,222
+2005,16,W,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+2005,16,Z,Oakland,Golden Grizzlies,OAK,aeaaef0d-5238-414e-ac04-c55a22cba208,Oakland,514
+2006,1,Z,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2006,1,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2006,1,X,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2006,1,Y,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2006,2,Y,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2006,2,Z,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2006,2,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2006,2,X,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2006,3,Y,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2006,3,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2006,3,W,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+2006,3,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2006,4,Y,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2006,4,Z,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2006,4,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2006,4,W,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+2006,5,Y,Nevada,Wolf Pack,NEV,62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,466
+2006,5,X,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2006,5,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2006,5,Z,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+2006,6,X,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2006,6,Z,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2006,6,Y,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2006,6,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2006,7,W,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2006,7,Y,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2006,7,X,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2006,7,Z,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2006,8,Y,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2006,8,X,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2006,8,W,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+2006,8,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2006,9,X,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+2006,9,Z,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+2006,9,W,North Carolina-Wilmington,Seahawks,UNCW,c54279f9-3028-4663-893a-7d22482f8098,UNCW,460
+2006,9,Y,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2006,10,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+2006,10,Z,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+2006,10,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2006,10,Y,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2006,11,Z,George Mason,Patriots,GMU,e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,248
+2006,11,Y,Milwaukee,Panthers,MILW,5d77800f-1ae6-4b66-8e97-b0dbb8bbc717,Milwaukee,797
+2006,11,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2006,11,W,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+2006,12,X,Kent State,Golden Flashes,KENT,3da4798c-2d58-4dac-b66e-ad145a91b544,Kent St.,331
+2006,12,Y,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+2006,12,W,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2006,12,Z,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2006,13,Z,Air Force,Falcons,AFA,aa7af640-5762-4686-9181-39f7b8a8186e,Air Force,721
+2006,13,X,Bradley,Braves,BRAD,b47d10b8-a2a5-47df-a2f9-7bd0b9d51beb,Bradley,72
+2006,13,W,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+2006,13,Y,Pacific,Tigers,PAC,c9570e17-c4fd-41e6-908a-1a083941319d,Pacific,534
+2006,14,Z,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+2006,14,W,Northwestern State,Demons,NWST,71874e7e-8260-43f9-bb7c-65f267dbe8ce,Northwestern St.,508
+2006,14,Y,South Alabama,Jaguars,USA,10c614fa-9646-46cf-a1fb-5af96772bbb8,South Ala.,646
+2006,14,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2006,15,X,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2006,15,Y,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2006,15,W,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+2006,15,Z,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2006,16,Z,Albany,Great Danes,ALBY,290a5130-836d-45e6-824f-28704d6ba246,Albany (NY),14
+2006,16,Y,Monmouth,Hawks,MONM,3db7336c-c18a-441b-912e-e2a4408f12ea,Monmouth,439
+2006,16,X,Oral Roberts,Golden Eagles,ORU,095417ae-62b0-4109-afc4-d92918599dd4,Oral Roberts,527
+2006,16,W,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+2007,1,Y,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2007,1,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2007,1,X,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2007,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2007,2,W,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2007,2,X,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2007,2,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2007,2,Y,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2007,3,Y,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2007,3,Z,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2007,3,X,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2007,3,W,Washington State,Cougars,WSU,2d4f0015-adb4-4877-8c15-4a6eed7eed03,Washington St.,754
+2007,4,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2007,4,Z,Southern Illinois,Salukis,SIU,7cdfcf92-7fe7-46f1-9b66-6912114182e6,Southern Ill.,659
+2007,4,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2007,4,X,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2007,5,Y,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2007,5,X,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2007,5,W,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2007,5,Z,Virginia Tech,Hokies,VT,324ccccc-575b-4b82-acb0-fbb8e68da13b,Virginia Tech,742
+2007,6,Z,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2007,6,X,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2007,6,Y,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2007,6,W,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2007,7,W,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2007,7,Z,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2007,7,X,Nevada,Wolf Pack,NEV,62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,466
+2007,7,Y,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2007,8,Y,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2007,8,X,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2007,8,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2007,8,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2007,9,W,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2007,9,Y,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2007,9,Z,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2007,9,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2007,10,X,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2007,10,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2007,10,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+2007,10,W,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+2007,11,W,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+2007,11,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2007,11,Z,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2007,11,Y,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2007,12,W,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2007,12,Z,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2007,12,X,Long Beach State,49ers,LBSU,11a617d5-af03-4cce-bc8a-51114d9e41fe,Long Beach St.,99
+2007,12,Y,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+2007,13,X,Albany,Great Danes,ALBY,290a5130-836d-45e6-824f-28704d6ba246,Albany (NY),14
+2007,13,Y,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2007,13,Z,Holy Cross,Crusaders,HC,31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,285
+2007,13,W,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2007,14,Y,Miami (OH),RedHawks,M-OH,1165ca31-f181-4206-b727-c4e897e4b5cd,Miami (OH),414
+2007,14,W,Oral Roberts,Golden Eagles,ORU,095417ae-62b0-4109-afc4-d92918599dd4,Oral Roberts,527
+2007,14,X,Pennsylvania,Quakers,PENN,e6c94452-1adf-4fb9-90e5-10f165c57c5a,Penn,540
+2007,14,Z,Wright State,Raiders,WRST,9c396fa7-c165-4599-8542-158bd0d9a199,Wright St.,810
+2007,15,Y,Texas A&M-CC,Islanders,AMCC,fe21a988-3e96-4f3c-8f9f-b449ccda43b0,A&M-Corpus Christi,26172
+2007,15,W,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2007,15,X,North Texas,Mean Green,UNT,10f450ce-143b-4e46-8bfe-52c644b68b07,North Texas,497
+2007,15,Z,Weber State,Wildcats,WEB,4743cb7c-784a-4b95-a380-5471f92f2217,Weber St.,758
+2007,16,X,Central Connecticut State,Blue Devils,CCSU,a93bf4f2-3724-4539-8c8a-9ac8ee3741a6,Central Conn. St.,127
+2007,16,W,Eastern Kentucky,Colonels,EKY,e48e3dd5-721c-4d96-8ff4-790fe2597bfd,Eastern Ky.,202
+2007,16,Y,Jackson State,Tigers,JKST,c444e03b-d16b-48b2-9b18-823c2647d41d,Jackson St.,314
+2007,16,Z,Niagara,Purple Eagles,NIAG,f7575278-12ec-494a-b544-427c1759d43d,Niagara,482
+2008,1,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2008,1,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2008,1,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2008,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2008,2,Z,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2008,2,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2008,2,W,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2008,2,Y,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2008,3,W,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2008,3,Y,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2008,3,X,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2008,3,Z,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2008,4,Z,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2008,4,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2008,4,X,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2008,4,W,Washington State,Cougars,WSU,2d4f0015-adb4-4877-8c15-4a6eed7eed03,Washington St.,754
+2008,5,X,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+2008,5,Z,Drake,Bulldogs,DRKE,aed211c3-23a4-4188-ad70-22c6eba7d765,Drake,189
+2008,5,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2008,5,W,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2008,6,Y,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2008,6,W,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2008,6,Z,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2008,6,X,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2008,7,W,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2008,7,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2008,7,Y,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+2008,7,Z,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2008,8,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2008,8,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2008,8,Y,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+2008,8,X,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2008,9,W,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2008,9,X,Kent State,Golden Flashes,KENT,3da4798c-2d58-4dac-b66e-ad145a91b544,Kent St.,331
+2008,9,Y,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2008,9,Z,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2008,10,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2008,10,X,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2008,10,Y,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+2008,10,W,South Alabama,Jaguars,USA,10c614fa-9646-46cf-a1fb-5af96772bbb8,South Ala.,646
+2008,11,Z,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2008,11,W,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+2008,11,X,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2008,11,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2008,12,W,George Mason,Patriots,GMU,e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,248
+2008,12,Y,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2008,12,X,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2008,12,Z,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2008,13,Y,Oral Roberts,Golden Eagles,ORU,095417ae-62b0-4109-afc4-d92918599dd4,Oral Roberts,527
+2008,13,X,Siena,Saints,SIE,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,639
+2008,13,Z,San Diego,Toreros,USD,620d5944-7156-47d3-aad5-5b3824557d03,San Diego,627
+2008,13,W,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2008,14,W,Boise State,Broncos,BSU,c1c54dbf-805c-47fc-a707-c803e94db2a4,Boise St.,66
+2008,14,Y,Cornell,Big Red,COR,88ff8c00-958e-4ccf-a21d-77fab9e93692,Cornell,167
+2008,14,X,Cal State Fullerton,Titans,CSF,c009914b-3303-4dee-b915-978aa48a31d0,Cal St. Fullerton,97
+2008,14,Z,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+2008,15,W,American University,Eagles,AMER,2f513e67-f019-4eec-9096-fbc5911858b6,American,23
+2008,15,Z,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2008,15,Y,Austin Peay,Governors,PEAY,a0fdb660-a822-4337-b01d-31c4d2c99c8a,Austin Peay,43
+2008,15,X,UMBC,Retrievers,UMBC,32755362-6336-4dd3-ac34-6f72a6cc150b,UMBC,391
+2008,16,W,Mount St. Mary's,Mountaineers,MSM,5fe4a398-1699-4442-a364-305b2f0ac01e,Mt. St. Mary's,450
+2008,16,Z,Mississippi Valley State,Delta Devils,MVSU,5873529e-e5e3-4a06-8a03-fa4cbe509880,Mississippi Val.,432
+2008,16,X,Portland State,Vikings,PRST,79965018-7f6f-4273-9eef-65c99b592b01,Portland St.,550
+2008,16,Y,Texas-Arlington,Mavericks,UTA,7c2b372b-b5f0-466e-90cf-880beec57584,UT Arlington,702
+2009,1,Z,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2009,1,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2009,1,W,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2009,1,X,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2009,2,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2009,2,Z,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2009,2,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2009,2,X,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2009,3,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2009,3,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2009,3,X,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2009,3,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2009,4,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2009,4,Y,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2009,4,Z,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+2009,4,W,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2009,5,W,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+2009,5,X,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2009,5,Z,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2009,5,Y,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2009,6,X,Arizona State,Sun Devils,ASU,ad4bc983-8d2e-4e6f-a8f9-80840a786c64,Arizona St.,28
+2009,6,Z,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2009,6,W,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2009,6,Y,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2009,7,Y,Boston College,Eagles,BC,4b3ff02c-e0ba-435b-a565-6075bc491684,Boston College,67
+2009,7,Z,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2009,7,X,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+2009,7,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2009,8,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2009,8,X,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+2009,8,W,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2009,8,Y,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2009,9,X,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2009,9,Y,Siena,Saints,SIE,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,639
+2009,9,W,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2009,9,Z,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2009,10,Z,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2009,10,X,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2009,10,W,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+2009,10,Y,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2009,11,Y,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2009,11,X,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2009,11,Z,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2009,11,W,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2009,12,Y,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2009,12,Z,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2009,12,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2009,12,X,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2009,13,X,Akron,Zips,AKR,56fe0ab2-e4f0-47b9-8726-9ce23ebcde20,Akron,5
+2009,13,Y,Cleveland State,Vikings,CLEV,e30c0417-b220-424e-886e-dd1249e2ca5a,Cleveland St.,148
+2009,13,Z,Mississippi State,Bulldogs,MSST,a1ba4b89-d97c-44e2-835f-79ad3ccaa5ae,Mississippi St.,430
+2009,13,W,Portland State,Vikings,PRST,79965018-7f6f-4273-9eef-65c99b592b01,Portland St.,550
+2009,14,W,American University,Eagles,AMER,2f513e67-f019-4eec-9096-fbc5911858b6,American,23
+2009,14,Z,Cornell,Big Red,COR,88ff8c00-958e-4ccf-a21d-77fab9e93692,Cornell,167
+2009,14,Y,North Dakota State,Bison,NDSU,984e7518-e418-45d5-9797-979b8c2085c1,North Dakota St.,493
+2009,14,X,Stephen F. Austin,Lumberjacks,SFA,5ef64f01-86ae-4553-9834-c79cc0859eaf,SFA,676
+2009,15,W,Binghamton,Bearcats,BING,fa0f8282-c4f1-490e-962c-f25350cd76f4,Binghamton,62
+2009,15,Z,Cal State Northridge,Matadors,CSN,cb732075-23a5-4e71-9037-50a7a002bdb2,CSUN,101
+2009,15,X,Morgan State,Bears,MORG,576b816b-5b9a-4768-a62b-f8435a8272c2,Morgan St.,446
+2009,15,Y,Robert Morris,Colonials,RMU,6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,579
+2009,16,Z,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+2009,16,W,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+2009,16,Y,Morehead State,Eagles,MORE,b7747a03-c85b-4de6-94bf-1b5b68553248,Morehead St.,444
+2009,16,X,Radford,Highlanders,RAD,f2cf9ba2-ac8c-4d92-8e7a-48dd88e8f40b,Radford,563
+2010,1,X,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2010,1,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2010,1,Z,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2010,1,W,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2010,2,Z,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2010,2,Y,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2010,2,X,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2010,2,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2010,3,X,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2010,3,Y,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2010,3,Z,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2010,3,W,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+2010,4,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2010,4,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2010,4,Z,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2010,4,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2010,5,Z,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2010,5,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2010,5,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2010,5,X,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2010,6,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2010,6,X,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2010,6,Y,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2010,6,Z,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2010,7,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2010,7,W,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+2010,7,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2010,7,X,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+2010,8,X,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2010,8,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2010,8,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2010,8,Y,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2010,9,Z,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+2010,9,X,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2010,9,Y,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2010,9,W,Wake Forest,Demon Deacons,WAKE,4fbebf0a-e117-4a0c-8f15-c247535a2a1b,Wake Forest,749
+2010,10,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2010,10,Y,Georgia Tech,Yellow Jackets,GT,0f63a6f5-bda7-4fd9-9271-8d33f555ca19,Georgia Tech,255
+2010,10,W,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2010,10,X,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+2010,11,Z,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+2010,11,X,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+2010,11,Y,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2010,11,W,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+2010,12,W,Cornell,Big Red,COR,88ff8c00-958e-4ccf-a21d-77fab9e93692,Cornell,167
+2010,12,Y,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2010,12,X,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2010,12,Z,UTEP,Miners,UTEP,06d15d35-4955-4fdd-83d9-32d24dbd795b,UTEP,704
+2010,13,Y,Houston,Cougars,HOU,1f99a164-d593-4d81-85d5-0d7889d6f486,Houston,288
+2010,13,Z,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+2010,13,X,Siena,Saints,SIE,aba39ad0-6d9f-4946-bf7e-5c63bf966ce6,Siena,639
+2010,13,W,Wofford,Terriers,WOF,9916713f-b243-452b-93ae-a2c3ccabf68b,Wofford,2915
+2010,14,W,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+2010,14,Z,Oakland,Golden Grizzlies,OAK,aeaaef0d-5238-414e-ac04-c55a22cba208,Oakland,514
+2010,14,Y,Ohio,Bobcats,OHIO,327f09e2-e75f-4014-8ef7-caf9202cd583,Ohio,519
+2010,14,X,Sam Houston State,Bearkats,SHSU,67322042-9c40-4dc2-b33a-4754c02ec82a,Sam Houston St.,624
+2010,15,W,Morgan State,Bears,MORG,576b816b-5b9a-4768-a62b-f8435a8272c2,Morgan St.,446
+2010,15,X,Robert Morris,Colonials,RMU,6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,579
+2010,15,Y,UC Santa Barbara,Gauchos,UCSB,3b6293f3-03db-46d2-8793-248963c2d83b,UC Santa Barbara,104
+2010,15,Z,North Texas,Mean Green,UNT,10f450ce-143b-4e46-8bfe-52c644b68b07,North Texas,497
+2010,16,X,Arkansas-Pine Bluff,Golden Lions,ARPB,1394dd8a-040e-4509-9ee3-761d60eaf6c9,Ark.-Pine Bluff,2678
+2010,16,W,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+2010,16,Y,Lehigh,Mountain Hawks,LEH,508f503f-dc57-4f4c-a01e-4f195e5c05c8,Lehigh,352
+2010,16,Z,Vermont,Catamounts,UVM,18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,738
+2011,1,X,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2011,1,Z,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2011,1,W,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2011,1,Y,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2011,2,Y,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2011,2,Z,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2011,2,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2011,2,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2011,3,Y,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2011,3,X,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2011,3,Z,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2011,3,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2011,4,Z,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2011,4,X,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2011,4,W,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2011,4,Y,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2011,5,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2011,5,Y,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2011,5,Z,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2011,5,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2011,6,X,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2011,6,Z,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2011,6,Y,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+2011,6,W,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2011,7,X,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2011,7,Z,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2011,7,Y,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2011,7,W,Washington,Huskies,WASH,e52c9644-717a-46f4-bf16-aeca000b3b44,Washington,756
+2011,8,Y,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2011,8,W,George Mason,Patriots,GMU,e76479d0-a768-46d2-89bf-7b9dae12bec8,George Mason,248
+2011,8,X,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2011,8,Z,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2011,9,Z,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2011,9,Y,Old Dominion,Monarchs,ODU,ce967953-5c50-4220-87b2-99acb9606e84,Old Dominion,523
+2011,9,X,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2011,9,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2011,10,Z,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+2011,10,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2011,10,X,Penn State,Nittany Lions,PSU,4aebd148-8119-4875-954c-66779867989b,Penn St.,539
+2011,10,W,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+2011,11,Y,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2011,11,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2011,11,X,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2011,11,Z,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2011,12,W,Clemson,Tigers,CLEM,dcf5c2e7-c227-4c20-af26-715d5f859412,Clemson,147
+2011,12,X,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2011,12,Z,Richmond,Spiders,RICH,9b66e1e0-aace-4671-9be2-54c8acf5ecfc,Richmond,575
+2011,12,Y,Utah State,Aggies,USU,7672ff16-8436-47e6-8546-0fb5494ec7ee,Utah St.,731
+2011,13,Y,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2011,13,Z,Morehead State,Eagles,MORE,b7747a03-c85b-4de6-94bf-1b5b68553248,Morehead St.,444
+2011,13,X,Oakland,Golden Grizzlies,OAK,aeaaef0d-5238-414e-ac04-c55a22cba208,Oakland,514
+2011,13,W,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+2011,14,X,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+2011,14,W,Indiana State,Sycamores,INST,2a997096-a381-469d-a7e9-9e031c8b071c,Indiana St.,305
+2011,14,Z,St. Peter's,Peacocks,SPC,e66d7ed2-9b4c-48c8-adaa-a276793b057d,Saint Peter's,617
+2011,14,Y,Wofford,Terriers,WOF,9916713f-b243-452b-93ae-a2c3ccabf68b,Wofford,2915
+2011,15,Z,Akron,Zips,AKR,56fe0ab2-e4f0-47b9-8726-9ce23ebcde20,Akron,5
+2011,15,W,LIU Brooklyn,Blackbirds,LIU,82c12e8d-7c6c-47d8-b100-3cbc190d268e,LIU Brooklyn,361
+2011,15,Y,UC Santa Barbara,Gauchos,UCSB,3b6293f3-03db-46d2-8793-248963c2d83b,UC Santa Barbara,104
+2011,15,X,Northern Colorado,Bears,UNCO,7e42fa84-68cd-47a6-b49a-18b5414d8084,Northern Colo.,502
+2011,16,Z,Boston University,Terriers,BU,de9a0e19-b83c-4b98-a6da-81c110cb364b,Boston U.,68
+2011,16,X,Hampton,Pirates,HAMP,161354af-1f3e-4d58-88f7-e016ec74b7b6,Hampton,270
+2011,16,Y,UNC Asheville,Bulldogs,UNCA,ad9fce12-6b1a-400c-bcbe-29d84d065fc0,UNC Asheville,456
+2011,16,W,UTSA,Roadrunners,UTSA,953151f2-1e42-4cb0-a99e-202493a64dcf,UTSA,706
+2012,1,Z,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2012,1,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2012,1,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2012,1,X,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2012,2,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2012,2,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2012,2,Z,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2012,2,W,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2012,3,Y,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2012,3,W,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+2012,3,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2012,3,Z,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2012,4,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2012,4,Z,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2012,4,X,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2012,4,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2012,5,X,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2012,5,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+2012,5,W,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2012,5,Y,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2012,6,W,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2012,6,Z,Murray State,Racers,MURR,77a69fb0-1355-4342-ac09-b4cc7949d95e,Murray St.,454
+2012,6,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2012,6,Y,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2012,7,Z,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2012,7,W,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2012,7,Y,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2012,7,X,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+2012,8,X,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2012,8,Y,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2012,8,W,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2012,8,Z,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2012,9,X,Alabama,Crimson Tide,ALA,c2104cdc-c83d-40d2-a3cd-df986e29f5d3,Alabama,8
+2012,9,Y,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2012,9,Z,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+2012,9,W,Southern Miss,Golden Eagles,USM,6120ac5d-e0f2-4b28-9e6f-ee71596a7e88,Southern Miss.,664
+2012,10,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2012,10,Z,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2012,10,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2012,10,Y,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2012,11,Y,Colorado,Buffaloes,COLO,9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,157
+2012,11,Z,Colorado State,Rams,CSU,1a470730-f328-4fb1-8bbf-36a069e4d6b2,Colorado St.,156
+2012,11,X,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2012,11,W,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2012,12,W,Harvard,Crimson,HARV,5c7bf63f-bc39-43c5-9907-73b50b7a6b34,Harvard,275
+2012,12,Z,Long Beach State,49ers,LBSU,11a617d5-af03-4cce-bc8a-51114d9e41fe,Long Beach St.,99
+2012,12,X,South Florida,Bulls,USF,55af9c69-3675-4b9b-a882-96640b782fff,South Fla.,651
+2012,12,Y,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2012,13,Z,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2012,13,W,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+2012,13,Y,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2012,13,X,Ohio,Bobcats,OHIO,327f09e2-e75f-4014-8ef7-caf9202cd583,Ohio,519
+2012,14,X,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2012,14,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2012,14,W,St. Bonaventure,Bonnies,SBON,22d90601-19d4-461b-a901-924d12f116ed,St. Bonaventure,596
+2012,14,Y,South Dakota State,Jackrabbits,SDST,6ef40534-5fad-4755-84de-7dcbd645d1f0,South Dakota St.,649
+2012,15,X,Detroit,Titans,DET,1b78e7f6-f25c-4921-98e2-9bc565f8dfb4,Detroit Mercy,184
+2012,15,W,Loyola (MD),Greyhounds,L-MD,175d34a7-3823-4e4f-9f11-2464f55360b8,Loyola Maryland,369
+2012,15,Y,Lehigh,Mountain Hawks,LEH,508f503f-dc57-4f4c-a01e-4f195e5c05c8,Lehigh,352
+2012,15,Z,Norfolk State,Spartans,NORF,a8f75c12-c4db-401f-99e3-b48209d85274,Norfolk St.,485
+2012,16,Z,LIU Brooklyn,Blackbirds,LIU,82c12e8d-7c6c-47d8-b100-3cbc190d268e,LIU Brooklyn,361
+2012,16,W,UNC Asheville,Bulldogs,UNCA,ad9fce12-6b1a-400c-bcbe-29d84d065fc0,UNC Asheville,456
+2012,16,X,Vermont,Catamounts,UVM,18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,738
+2012,16,Y,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2013,1,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2013,1,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2013,1,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2013,1,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2013,2,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2013,2,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2013,2,W,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+2013,2,Z,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2013,3,X,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2013,3,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2013,3,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2013,3,Z,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+2013,4,Z,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2013,4,X,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2013,4,Y,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+2013,4,W,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2013,5,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2013,5,W,UNLV,Rebels,UNLV,68a3227f-677f-43b0-9a3a-cad79d0df9e2,UNLV,465
+2013,5,X,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2013,5,Z,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2013,6,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2013,6,W,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2013,6,Y,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2013,6,X,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2013,7,Y,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2013,7,W,Illinois,Fighting Illini,ILL,150148c2-ca8f-414f-8f41-d94a55d4a122,Illinois,301
+2013,7,Z,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2013,7,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2013,8,Y,Colorado State,Rams,CSU,1a470730-f328-4fb1-8bbf-36a069e4d6b2,Colorado St.,156
+2013,8,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2013,8,Z,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2013,8,X,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2013,9,Y,Missouri,Tigers,MIZZ,77ca152a-cb2f-48a5-97b2-492351250d94,Missouri,434
+2013,9,W,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2013,9,X,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2013,9,Z,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2013,10,Y,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2013,10,W,Colorado,Buffaloes,COLO,9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,157
+2013,10,Z,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2013,10,X,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2013,11,Z,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2013,11,W,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+2013,11,X,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+2013,11,Y,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+2013,12,X,Akron,Zips,AKR,56fe0ab2-e4f0-47b9-8726-9ce23ebcde20,Akron,5
+2013,12,W,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2013,12,Z,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+2013,12,Y,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2013,13,Z,La Salle,Explorers,LAS,ad9a3e21-4585-4e35-8946-290fe4a16f18,La Salle,340
+2013,13,W,Montana,Grizzlies,MONT,e3848467-66c0-41e5-8283-02e3586d8601,Montana,441
+2013,13,Y,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2013,13,X,South Dakota State,Jackrabbits,SDST,6ef40534-5fad-4755-84de-7dcbd645d1f0,South Dakota St.,649
+2013,14,W,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2013,14,Z,Harvard,Crimson,HARV,5c7bf63f-bc39-43c5-9907-73b50b7a6b34,Harvard,275
+2013,14,X,Northwestern State,Demons,NWST,71874e7e-8260-43f9-bb7c-65f267dbe8ce,Northwestern St.,508
+2013,14,Y,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+2013,15,Y,Albany,Great Danes,ALBY,290a5130-836d-45e6-824f-28704d6ba246,Albany (NY),14
+2013,15,X,Florida Gulf Coast,Eagles,FGCU,5326c079-3dc3-468f-a601-b776dd9c1e62,FGCU,28755
+2013,15,Z,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+2013,15,W,Pacific,Tigers,PAC,c9570e17-c4fd-41e6-908a-1a083941319d,Pacific,534
+2013,16,W,James Madison,Dukes,JMU,524e3eec-7dde-45c7-b3cc-6308cec73350,James Madison,317
+2013,16,Y,North Carolina A&T,Aggies,NCAT,53aaac6a-796e-41a6-a04e-6ce74c5717f8,N.C. A&T,488
+2013,16,Z,Southern University,Jaguars,SOU,a3b13d27-ec14-4a7d-88a2-0bc9f7b58984,Southern U.,665
+2013,16,X,Western Kentucky,Hilltoppers,WKU,881380da-861c-4ab6-a7d2-20699d8ea883,Western Ky.,772
+2014,1,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2014,1,X,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2014,1,W,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2014,1,Y,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2014,2,X,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2014,2,Y,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2014,2,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2014,2,Z,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2014,3,Z,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2014,3,Y,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2014,3,W,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2014,3,X,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2014,4,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2014,4,W,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2014,4,Z,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2014,4,X,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2014,5,W,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2014,5,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2014,5,Y,Saint Louis,Billikens,SLU,1e42cce3-236b-4f3e-9650-2c45e6332e1e,Saint Louis,609
+2014,5,X,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2014,6,Z,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2014,6,Y,Massachusetts,Minutemen,MASS,88104678-e53b-43b3-82f7-efb3a11cedb9,Massachusetts,400
+2014,6,X,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2014,6,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2014,7,W,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2014,7,Z,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2014,7,Y,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2014,7,X,New Mexico,Lobos,UNM,1b1977ec-b32f-4ce3-95a4-d07bab4816cd,New Mexico,473
+2014,8,X,Colorado,Buffaloes,COLO,9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,157
+2014,8,Z,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2014,8,W,Memphis,Tigers,MEM,1551b3a0-6d10-4ffa-8dfa-73b56f004553,Memphis,404
+2014,8,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2014,9,W,George Washington,Colonials,GW,d52c3640-069c-4554-982e-e6537c8044f1,George Washington,249
+2014,9,Y,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2014,9,Z,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2014,9,X,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2014,10,Y,Arizona State,Sun Devils,ASU,ad4bc983-8d2e-4e6f-a8f9-80840a786c64,Arizona St.,28
+2014,10,Z,BYU,Cougars,BYU,c31455b2-8a45-4248-aa8f-ce7eab1c6b02,BYU,77
+2014,10,W,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+2014,10,X,Stanford,Cardinal,STAN,683ab61f-546f-44da-b085-c3a5740554aa,Stanford,674
+2014,11,X,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2014,11,Z,Nebraska,Cornhuskers,NEB,f8b1bf00-5b73-4ac4-98c0-ec554027ae32,Nebraska,463
+2014,11,W,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+2014,11,Y,Tennessee,Volunteers,TENN,b827dbdf-230f-4916-9703-3bb9004e26eb,Tennessee,694
+2014,12,W,Harvard,Crimson,HARV,5c7bf63f-bc39-43c5-9907-73b50b7a6b34,Harvard,275
+2014,12,Y,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2014,12,Z,North Dakota State,Bison,NDSU,984e7518-e418-45d5-9797-979b8c2085c1,North Dakota St.,493
+2014,12,X,Stephen F. Austin,Lumberjacks,SFA,5ef64f01-86ae-4553-9834-c79cc0859eaf,SFA,676
+2014,13,W,Delaware,Fightin Blue Hens,DEL,0affc15f-641d-4211-970d-fb9fb8d36842,Delaware,180
+2014,13,Y,Manhattan,Jaspers,MAN,7a270923-01d6-4a6f-a93e-e8786266d502,Manhattan,381
+2014,13,Z,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2014,13,X,Tulsa,Golden Hurricane,TLSA,2959bd24-7007-41ae-a3a3-abdf26888cfc,Tulsa,719
+2014,14,Y,Mercer,Bears,MER,a14b0057-8eb5-43d2-a33b-666196da933e,Mercer,406
+2014,14,W,North Carolina Central,Eagles,NCCU,e4c315a0-e83f-4d14-856e-34a0463059e3,N.C. Central,489
+2014,14,Z,Louisiana-Lafayette,Ragin' Cajuns,ULL,63cad858-8654-4956-8438-8fe79cd1208a,Louisiana,671
+2014,14,X,Western Michigan,Broncos,WMU,f2164f01-2cbc-4967-bb1c-93656d790921,Western Mich.,774
+2014,15,Z,American University,Eagles,AMER,2f513e67-f019-4eec-9096-fbc5911858b6,American,23
+2014,15,X,Eastern Kentucky,Colonels,EKY,e48e3dd5-721c-4d96-8ff4-790fe2597bfd,Eastern Ky.,202
+2014,15,W,Milwaukee,Panthers,MILW,5d77800f-1ae6-4b66-8e97-b0dbb8bbc717,Milwaukee,797
+2014,15,Y,Wofford,Terriers,WOF,9916713f-b243-452b-93ae-a2c3ccabf68b,Wofford,2915
+2014,16,X,Albany,Great Danes,ALBY,290a5130-836d-45e6-824f-28704d6ba246,Albany (NY),14
+2014,16,W,Coastal Carolina,Chanticleers,CCAR,4af63ebd-d3c8-4772-bbde-938a078bd057,Coastal Caro.,149
+2014,16,Y,Cal Poly,Mustangs,CP,45439cdb-af7a-4743-936c-dccc76b30877,Cal Poly,90
+2014,16,Z,Weber State,Wildcats,WEB,4743cb7c-784a-4b95-a380-5471f92f2217,Weber St.,758
+2015,1,X,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2015,1,Y,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2015,1,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2015,1,Z,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2015,2,Z,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2015,2,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2015,2,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2015,2,W,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2015,3,Z,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2015,3,X,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2015,3,Y,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2015,3,W,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2015,4,X,Georgetown,Hoyas,GTWN,8736b67f-5924-400b-bf94-3bd804c36600,Georgetown,251
+2015,4,W,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2015,4,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2015,4,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2015,5,Z,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2015,5,W,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2015,5,X,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2015,5,Y,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2015,6,Y,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2015,6,W,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+2015,6,X,SMU,Mustangs,SMU,3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,663
+2015,6,Z,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2015,7,X,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+2015,7,W,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2015,7,Z,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2015,7,Y,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2015,8,Y,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2015,8,W,North Carolina State,Wolfpack,NCST,52df1e19-b142-4a76-a439-ad68455d0581,NC State,490
+2015,8,Z,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2015,8,X,San Diego State,Aztecs,SDSU,e6914f16-ca37-4d2e-ba26-a425910283e2,San Diego St.,626
+2015,9,W,LSU,Tigers,LSU,70e2bedd-3a0a-479c-ac99-e3f58aa6824b,LSU,365
+2015,9,Z,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2015,9,Y,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2015,9,X,St. John's,Red Storm,SJU,c1f4aae1-aa16-4095-aeab-10e5c2a1236a,St. John's (NY),603
+2015,10,X,Davidson,Wildcats,DAV,2920c5fa-1e86-4958-a7c4-1e97b8e201d8,Davidson,173
+2015,10,Y,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2015,10,Z,Ohio State,Buckeyes,OSU,857462b3-0ab6-4d26-9669-10ca354e382b,Ohio St.,518
+2015,10,W,Georgia,Bulldogs,UGA,4f4b0771-994c-4126-822d-7525aaa00f65,Georgia,257
+2015,11,W,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2015,11,Z,Ole Miss,Rebels,MISS,d7d668ec-edaa-4d6b-be25-2ebba4128643,Ole Miss,433
+2015,11,Y,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2015,11,X,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2015,12,Y,Buffalo,Bulls,BUFF,a9f5c9a2-342c-4881-9996-5d5c05ec9bd9,Buffalo,86
+2015,12,X,Stephen F. Austin,Lumberjacks,SFA,5ef64f01-86ae-4553-9834-c79cc0859eaf,SFA,676
+2015,12,Z,Wofford,Terriers,WOF,9916713f-b243-452b-93ae-a2c3ccabf68b,Wofford,2915
+2015,12,W,Wyoming,Cowboys,WYO,a7127c0a-a466-47ae-91ad-9a71ee2c9427,Wyoming,811
+2015,13,X,Eastern Washington,Eagles,EWU,54df21af-8f65-42fc-bc01-8bf750856d70,Eastern Wash.,207
+2015,13,Z,Harvard,Crimson,HARV,5c7bf63f-bc39-43c5-9907-73b50b7a6b34,Harvard,275
+2015,13,W,UC Irvine,Anteaters,UCI,39d00ef7-320d-47cf-a2fa-859bc24d16b4,UC Irvine,109
+2015,13,Y,Valparaiso,Crusaders,VALP,df3da9d7-2d2b-44e2-99e2-08c4945a203b,Valparaiso,735
+2015,14,W,Albany,Great Danes,ALBY,290a5130-836d-45e6-824f-28704d6ba246,Albany (NY),14
+2015,14,Z,Georgia State,Panthers,GAST,94ea835b-8ce9-4de2-a5b1-971548fea974,Georgia St.,254
+2015,14,Y,Northeastern,Huskies,NE,93df9b18-e9fc-42a7-bb45-a736c203b4dc,Northeastern,500
+2015,14,X,UAB,Blazers,UAB,63a8fdcf-b51b-4de3-8a57-2a6e41d362ce,UAB,9
+2015,15,W,Belmont,Bruins,BEL,a0a22502-0d84-440c-84af-1fbb070ad54c,Belmont,14927
+2015,15,X,North Dakota State,Bison,NDSU,984e7518-e418-45d5-9797-979b8c2085c1,North Dakota St.,493
+2015,15,Y,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2015,15,Z,Texas Southern,Tigers,TXSO,eb157f98-0697-459c-9293-ddb162ceb28b,Texas Southern,699
+2015,16,Z,Coastal Carolina,Chanticleers,CCAR,4af63ebd-d3c8-4772-bbde-938a078bd057,Coastal Caro.,149
+2015,16,Y,Hampton,Pirates,HAMP,161354af-1f3e-4d58-88f7-e016ec74b7b6,Hampton,270
+2015,16,W,Lafayette,Leopards,LAF,6af02334-9ac3-452f-bcf4-20abdb72bd07,Lafayette,342
+2015,16,X,Robert Morris,Colonials,RMU,6906e22d-92fa-40cb-8c05-ec8391ac1979,Robert Morris,579
+2016,1,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2016,1,Z,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2016,1,W,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2016,1,X,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2016,2,X,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2016,2,Z,Oklahoma,Sooners,OKLA,b2fda957-e15c-4fb2-8a13-6e58496f561e,Oklahoma,522
+2016,2,Y,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2016,2,W,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2016,3,Y,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+2016,3,Z,Texas A&M,Aggies,TXAM,ef184799-d79b-49d9-a662-991eaf4044cd,Texas A&M,697
+2016,3,X,Utah,Utes,UTAH,0d037a5d-827a-44dd-8b70-57603d671d5d,Utah,732
+2016,3,W,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2016,4,Y,California,Golden Bears,CAL,aacdc78d-b7fa-48f6-9686-2fdb8a95030e,California,107
+2016,4,Z,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2016,4,X,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2016,4,W,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2016,5,Z,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2016,5,W,Indiana,Hoosiers,IND,c3f0a8ce-af67-497f-a750-3b859376b20a,Indiana,306
+2016,5,Y,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2016,5,X,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2016,6,Y,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2016,6,X,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+2016,6,W,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2016,6,Z,Texas,Longhorns,TEX,6ed15092-2670-450a-99c2-61d861e87644,Texas,703
+2016,7,X,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2016,7,Y,Iowa,Hawkeyes,IOWA,c10544de-e3bd-4776-ba2e-83df8c017fd1,Iowa,312
+2016,7,Z,Oregon State,Beavers,ORST,532d3874-b4b3-4c5c-acc6-749a6db26c8f,Oregon St.,528
+2016,7,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2016,8,Y,Colorado,Buffaloes,COLO,9fccbf28-2858-4263-821c-fdefb3c7efa3,Colorado,157
+2016,8,Z,Saint Joseph's (PA),Hawks,JOES,f9e4261e-d11d-46c4-bd33-c7bbc94ef0e8,Saint Joseph's,606
+2016,8,X,Texas Tech,Red Raiders,TTU,f8c705b7-87d3-411a-9c8b-5124daab0469,Texas Tech,700
+2016,8,W,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2016,9,X,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2016,9,Z,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2016,9,Y,Connecticut,Huskies,CONN,efba5350-79bc-47aa-a189-db177b95b491,UConn,164
+2016,9,W,Providence,Friars,PROV,7d3b9c72-cbdd-4b64-9aa3-a5bde9b75fdc,Providence,556
+2016,10,W,Pittsburgh,Panthers,PITT,24051034-96bb-4f78-a3a6-312f3258780f,Pittsburgh,545
+2016,10,X,Syracuse,Orange,SYR,8cd24de1-2be8-4b77-bcfa-47be0495a5f4,Syracuse,688
+2016,10,Y,Temple,Owls,TEM,8598d1b6-106b-4083-a512-2e495729525a,Temple,690
+2016,10,Z,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2016,11,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2016,11,W,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2016,11,Z,Northern Iowa,Panthers,UNI,2c93a75d-5449-4ec1-9ca2-1e6c812399a4,UNI,504
+2016,11,Y,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2016,12,W,Chattanooga,Mocs,CHAT,4c9fb59b-6cec-4b0d-bb0f-628b391d138c,Chattanooga,693
+2016,12,Y,South Dakota State,Jackrabbits,SDST,6ef40534-5fad-4755-84de-7dcbd645d1f0,South Dakota St.,649
+2016,12,X,Arkansas-Little Rock,Trojans,UALR,0dadedb0-2bd3-45e7-91a3-93af6c4e87f2,Little Rock,32
+2016,12,Z,Yale,Bulldogs,YALE,ca478771-aa3d-4231-81e0-b70f519134fb,Yale,813
+2016,13,Y,Hawaii,Warriors,HAW,d4dc55b3-94fe-4d4f-b0bf-c50c5f064392,Hawaii,277
+2016,13,X,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+2016,13,W,Stony Brook,Seawolves,STON,23426c0b-1705-4dfb-a0e2-efdbdd8fd6f6,Stony Brook,683
+2016,13,Z,North Carolina-Wilmington,Seahawks,UNCW,c54279f9-3028-4663-893a-7d22482f8098,UNCW,460
+2016,14,Y,Buffalo,Bulls,BUFF,a9f5c9a2-342c-4881-9996-5d5c05ec9bd9,Buffalo,86
+2016,14,X,Fresno State,Bulldogs,FRES,dd8db4d8-d984-4cab-b7f6-22c6b8c2c45f,Fresno St.,96
+2016,14,Z,Green Bay,Phoenix,GB,61a3e5ab-1be3-4694-b83f-edae0953f409,Green Bay,794
+2016,14,W,Stephen F. Austin,Lumberjacks,SFA,5ef64f01-86ae-4553-9834-c79cc0859eaf,SFA,676
+2016,15,Z,Cal State Bakersfield,Roadrunners,CSB,2da57857-b038-4ad3-8199-e3fb339f57d2,CSU Bakersfield,94
+2016,15,X,Middle Tennessee,Blue Raiders,MTU,3d2f0819-8f3b-4ff3-afd6-6227c469a751,Middle Tenn.,419
+2016,15,Y,UNC Asheville,Bulldogs,UNCA,ad9fce12-6b1a-400c-bcbe-29d84d065fc0,UNC Asheville,456
+2016,15,W,Weber State,Wildcats,WEB,4743cb7c-784a-4b95-a380-5471f92f2217,Weber St.,758
+2016,16,W,Florida Gulf Coast,Eagles,FGCU,5326c079-3dc3-468f-a601-b776dd9c1e62,FGCU,28755
+2016,16,X,Hampton,Pirates,HAMP,161354af-1f3e-4d58-88f7-e016ec74b7b6,Hampton,270
+2016,16,Z,Holy Cross,Crusaders,HC,31aedd91-a77e-46c1-8bdc-80e9860c159d,Holy Cross,285
+2016,16,Y,Austin Peay,Governors,PEAY,a0fdb660-a822-4337-b01d-31c4d2c99c8a,Austin Peay,43
+2017,1,X,Gonzaga,Bulldogs,GONZ,2f4d21f8-6d5f-48a5-abca-52a30583871a,Gonzaga,260
+2017,1,Y,Kansas,Jayhawks,KU,fae4855b-1b64-4b40-a632-9ed345e1e952,Kansas,328
+2017,1,Z,North Carolina,Tar Heels,UNC,e9ca48b2-00ba-41c0-a02b-6885a2da1ff1,North Carolina,457
+2017,1,W,Villanova,Wildcats,VILL,4383eb6a-7fd8-4ff2-94c5-43c933121e88,Villanova,739
+2017,2,X,Arizona,Wildcats,ARIZ,9b166a3f-e64b-4825-bb6b-92c6f0418263,Arizona,29
+2017,2,W,Duke,Blue Devils,DUKE,faeb1160-5d15-4f26-99fc-c441cf21fc7f,Duke,193
+2017,2,Y,Louisville,Cardinals,LOU,b795ddbc-baab-4499-8803-52e8608520ab,Louisville,367
+2017,2,Z,Kentucky,Wildcats,UK,2267a1f4-68f6-418b-aaf6-2aa0c4b291f1,Kentucky,334
+2017,3,W,Baylor,Bears,BAY,db6e1cab-3fa3-4a93-a673-8b2a358ff4bf,Baylor,51
+2017,3,X,Florida State,Seminoles,FSU,d3c8a767-b6fc-45d4-a5f2-18406f2993f1,Florida St.,234
+2017,3,Y,Oregon,Ducks,ORE,1da70895-f77f-44ef-b216-d63c02e696eb,Oregon,529
+2017,3,Z,UCLA,Bruins,UCLA,ec0d6b67-4b16-4b50-92b2-1a651dae6b0f,UCLA,110
+2017,4,Z,Butler,Bulldogs,BUT,bdb7d7a4-45f8-4bf3-ab85-15488c451494,Butler,87
+2017,4,W,Florida,Gators,FLA,912f8837-1d81-4ef9-a576-a21f271d4c64,Florida,235
+2017,4,Y,Purdue,Boilermakers,PUR,12d7f888-675b-459f-9099-a38f771d8a95,Purdue,559
+2017,4,X,West Virginia,Mountaineers,WVU,f770d3a2-221c-49ce-9c7a-680f7417fe9e,West Virginia,768
+2017,5,Y,Iowa State,Cyclones,ISU,0e4258fa-3154-4c16-b693-adecab184c6c,Iowa St.,311
+2017,5,Z,Minnesota,Golden Gophers,MINN,fa416692-7e09-4f0a-9bcf-0cf7d5149a14,Minnesota,428
+2017,5,X,Notre Dame,Fighting Irish,ND,80962f09-8821-48b6-8cf0-0cf0eea56aa8,Notre Dame,513
+2017,5,W,Virginia,Cavaliers,UVA,56913910-87f7-4ad7-ae3b-5cd9fb218fd9,Virginia,746
+2017,6,Z,Cincinnati,Bearcats,CIN,a17dfc54-415f-49c3-a2e6-d6fa9db18b0a,Cincinnati,140
+2017,6,Y,Creighton,Bluejays,CREI,7d797407-623e-476d-b299-46de4275414d,Creighton,169
+2017,6,X,Maryland,Terrapins,MD,2778d005-cc14-4e58-9bf2-3fc37bffb62f,Maryland,392
+2017,6,W,SMU,Mustangs,SMU,3f4515ea-4472-46b9-ac9e-16d7d8f22a38,SMU,663
+2017,7,Z,Dayton,Flyers,DAY,632616c5-2dbb-4017-a449-c9dfc303f026,Dayton,175
+2017,7,Y,Michigan,Wolverines,MICH,bdc2561d-f603-4fab-a262-f1d2af462277,Michigan,418
+2017,7,W,South Carolina,Gamecocks,SCAR,1c7ec608-3b36-4cee-adac-9265e3792597,South Carolina,648
+2017,7,X,Saint Mary's,Gaels,SMC,b18f34af-a7f1-4659-a2e5-fc11a31cd316,Saint Mary's (CA),610
+2017,8,Z,Arkansas,Razorbacks,ARK,c70c23c4-ab09-4797-a1af-792c848ab17f,Arkansas,31
+2017,8,Y,Miami (FL),Hurricanes,MIA,7aec5187-cb1b-45e5-8f7d-406d766cdc73,Miami (FL),415
+2017,8,X,Northwestern,Wildcats,NW,4b7dedc0-7b48-49a4-aad6-8a94a33274d2,Northwestern,509
+2017,8,W,Wisconsin,Badgers,WIS,c7569eae-5b93-4197-b204-6f3a62146b25,Wisconsin,796
+2017,9,Z,Seton Hall,Pirates,HALL,aef5e386-d8e8-460c-8014-3a2f090fd988,Seton Hall,635
+2017,9,Y,Michigan State,Spartans,MSU,a41d5a05-4c11-4171-a57e-e7a1ea325a6d,Michigan St.,416
+2017,9,X,Vanderbilt,Commodores,VAN,72971b77-1d35-40b3-bb63-4c5b29f3d22b,Vanderbilt,736
+2017,9,W,Virginia Tech,Hokies,VT,324ccccc-575b-4b82-acb0-fbb8e68da13b,Virginia Tech,742
+2017,10,W,Marquette,Golden Eagles,MARQ,06f7c904-0ac7-4125-b0f4-f4871bb69057,Marquette,387
+2017,10,Y,Oklahoma State,Cowboys,OKST,8ab00d43-840a-4c96-bdee-bf88fa6e3f11,Oklahoma St.,521
+2017,10,X,Virginia Commonwealth,Rams,VCU,c1c1e6df-a383-4fbd-ba7b-32d4f9ef9518,VCU,740
+2017,10,Z,Wichita State,Shockers,WICH,f38b58de-3273-4723-a78b-2f918e9aa2d5,Wichita St.,782
+2017,11,Z,Kansas State,Wildcats,KSU,d203f38a-a166-4258-bca2-e161b591ecfb,Kansas St.,327
+2017,11,Y,Rhode Island,Rams,URI,7e42bca2-3cd7-4aca-aa46-f190fe5d8eb4,Rhode Island,572
+2017,11,W,USC,Trojans,USC,3a000455-de7c-4ca8-880e-abdce7f21da9,Southern California,657
+2017,11,X,Xavier,Musketeers,XAV,0d8a328f-20ce-410b-bed1-15fc01308aaf,Xavier,812
+2017,12,Z,Middle Tennessee,Blue Raiders,MTU,3d2f0819-8f3b-4ff3-afd6-6227c469a751,Middle Tenn.,419
+2017,12,Y,Nevada,Wolf Pack,NEV,62a73b4a-e281-4483-a1f8-f1160a18e456,Nevada,466
+2017,12,X,Princeton,Tigers,PRIN,fe406882-9f22-495e-9df6-ef357a6803c6,Princeton,554
+2017,12,W,North Carolina-Wilmington,Seahawks,UNCW,c54279f9-3028-4663-893a-7d22482f8098,UNCW,460
+2017,13,X,Bucknell,Bison,BUCK,98d2123a-c7b9-4b5f-8a81-43f76d8537dc,Bucknell,83
+2017,13,W,East Tennessee State,Buccaneers,ETSU,d750d88f-f7b8-4bc3-a5f6-36e7a67ec93e,ETSU,198
+2017,13,Y,Vermont,Catamounts,UVM,18e89867-9201-41ce-ba19-fadddf92fa17,Vermont,738
+2017,13,Z,Winthrop,Eagles,WIN,ca441726-0c57-4456-b1e7-fff098484fb5,Winthrop,792
+2017,14,X,Florida Gulf Coast,Eagles,FGCU,5326c079-3dc3-468f-a601-b776dd9c1e62,FGCU,28755
+2017,14,Y,Iona,Gaels,IONA,255c2a87-40c0-4989-bbb9-d286aac5d28e,Iona,310
+2017,14,Z,Kent State,Golden Flashes,KENT,3da4798c-2d58-4dac-b66e-ad145a91b544,Kent St.,331
+2017,14,W,New Mexico State,Aggies,NMSU,5016fe1a-9571-4d10-bf5b-b9c1b496bd57,New Mexico St.,472
+2017,15,Y,Jacksonville State,Gamecocks,JVST,13358462-e05b-4449-8688-90c4622cdde8,Jacksonville St.,315
+2017,15,Z,Northern Kentucky,Norse,NKU,ab9a1315-293f-42d3-a164-860216e81576,Northern Ky.,505
+2017,15,W,Troy,Trojans,TROY,6373b18c-62f6-49bc-bd4c-8959a2466516,Troy,716
+2017,15,X,North Dakota,Fighting Hawks,UND,de8fc8a7-253f-4597-8a48-a0104ef226ae,North Dakota,494
+2017,16,W,Mount St. Mary's,Mountaineers,MSM,5fe4a398-1699-4442-a364-305b2f0ac01e,Mt. St. Mary's,450
+2017,16,X,South Dakota State,Jackrabbits,SDST,6ef40534-5fad-4755-84de-7dcbd645d1f0,South Dakota St.,649
+2017,16,Z,Texas Southern,Tigers,TXSO,eb157f98-0697-459c-9293-ddb162ceb28b,Texas Southern,699
+2017,16,Y,UC Davis,Aggies,UCD,8aaad1c0-d16e-4b9f-8541-dac670addd71,UC Davis,108
