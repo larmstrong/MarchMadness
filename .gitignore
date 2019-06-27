@@ -2,7 +2,7 @@
 MarchMadness_PythonScripts.zip
 MarchMadness_Report.docx
 MarchMadness_Report.pdf
-MarchMadness_Report.pptx
+*.pptx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
